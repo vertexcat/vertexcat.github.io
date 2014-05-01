@@ -52,12 +52,16 @@ section img {
  	list-style-type: none;
  	margin: 0;
  	padding: 0;
+  height: 900px;
+  -webkit-column-count: 3;
+  -moz-column-count: 3; 
+  column-count: 3;
  }
 
  .gallery img {
  	width: 250px;
- 	margin-bottom: 20px;
- 	float: left;
+  margin: 0 0 10px 0;
+  padding: 0;
  }
 
 h1 {
