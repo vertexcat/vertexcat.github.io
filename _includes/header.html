@@ -1,15 +1,18 @@
 <!DOCTYPE html>
   <head>
     <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="{{ site.url }}/css/main.css">
 
   </head>
   <body>
-    <div class="main">
-      <img src="cristaalejandre.png" alt="Crista Alejandre">
+    <div class="container">
       <nav>
+        <a href="{{ site.url }}/index.html">
+          <img src="{{ site.url }}/cristaalejandre.png" alt="Crista Alejandre">
+        </a>
         <ul>
           <li><a href="about">About</a></li>
           <li><a href="contact">Contact</a></li>
         </ul>
-    </div>
+        </nav>
+      <section>
