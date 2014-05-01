@@ -47,6 +47,18 @@ section img {
  	margin: 40px auto;
  }
 
+ ul.gallery {
+ 	list-style-type: none;
+ 	margin: 0;
+ 	padding: 0;
+ }
+
+ .gallery img {
+ 	width: 250px;
+ 	margin-bottom: 20px;
+ 	float: left;
+ }
+
 h1 {
 	font-weight: 400;
 	font-size: 22px;
@@ -54,6 +66,7 @@ h1 {
 	border-bottom: 1px solid #2a2a2a;
 }
  footer {
+ 	clear: both;
  	width: 100%;
  	margin: 75px 0 90px 0;
  	text-align: center;
