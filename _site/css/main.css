@@ -52,7 +52,7 @@ section img {
  	list-style-type: none;
  	margin: 0;
  	padding: 0;
-  height: 900px;
+  height: 1000px;
   -webkit-column-count: 3;
   -moz-column-count: 3; 
   column-count: 3;
@@ -60,7 +60,7 @@ section img {
 
  .gallery img {
  	width: 250px;
-  margin: 0 0 10px 0;
+  margin: 0 0 25px 0;
   padding: 0;
  }
 
