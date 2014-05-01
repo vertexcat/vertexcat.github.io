@@ -1,0 +1,33 @@
+@import url(http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,400italic,700italic);
+html, body {
+	font-family: 'Source Sans Pro';
+}
+a {
+	color: #2a2a2a;
+}
+.main {
+	width: 800px;
+	margin: 0 auto;
+}
+
+.main img {
+	width: 300px;
+	float: left;
+}
+ nav {
+ 	float: right;
+ 	padding: 50px 0;
+ }
+
+ nav ul {
+ 	list-style-type: none;
+ }
+
+ nav li {
+ 	display: inline;
+ 	padding-left: 30px;
+ }
+
+ nav a {
+ 	text-decoration: none;
+ }
