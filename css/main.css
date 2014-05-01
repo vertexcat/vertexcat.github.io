@@ -40,7 +40,6 @@ section {
 	width: 100%;
 }
 
-
 section img {
  	max-width: 100%;
  	display: block;
@@ -48,6 +47,16 @@ section img {
   max-height: 800px;
  }
 
+p {
+  clear: both;
+}
+
+.left {
+  float: left;
+}
+.right {
+  float: right;
+}
  ul.gallery {
  	list-style-type: none;
  	margin: 0;
@@ -60,8 +69,12 @@ section img {
 
  .gallery img {
  	width: 250px;
-  margin: 0 0 25px 0;
+  margin: 0 0 20px 0;
   padding: 0;
+ }
+
+ img.article {
+  width: 300px;
  }
 
 h1 {
