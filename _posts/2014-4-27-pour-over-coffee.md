@@ -1,8 +1,8 @@
 ---
 layout: illustration_page
-title: Chemex Pour Over
+title: Pour Over Coffee
 category: full-color
-image: chemex-pour-over.jpg
+image: pour-over.jpg
 ---
 
 Description of image

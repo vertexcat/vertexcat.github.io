@@ -61,7 +61,7 @@ p {
  	list-style-type: none;
  	margin: 0;
  	padding: 0;
-  height: 1000px;
+  height: 900px;
   -webkit-column-count: 3;
   -moz-column-count: 3; 
   column-count: 3;
