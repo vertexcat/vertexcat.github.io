@@ -5,4 +5,4 @@ category: full-color
 image: scott-pilgrim.jpg
 ---
 
-Description of image
+A little bit of fanart for one of my favorite series (the guitar is from the movie). 

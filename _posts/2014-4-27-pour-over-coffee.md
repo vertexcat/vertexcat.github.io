@@ -5,4 +5,4 @@ category: full-color
 image: pour-over.jpg
 ---
 
-Description of image
+I am a recent Chemex convert and now make my coffee like this almost every day. The chalk and paper textures reflect the simplicity of the process. 

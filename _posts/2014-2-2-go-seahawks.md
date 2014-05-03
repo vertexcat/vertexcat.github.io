@@ -5,4 +5,4 @@ category: ltd
 image: russell.png
 ---
 
-Description of image
+Drawn during Seattle's Superbowl fever!
