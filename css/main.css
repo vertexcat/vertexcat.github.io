@@ -71,6 +71,47 @@ section p {
   column-count: 3;
  }
 
+
+
+ @media only screen and (max-width:850px) {
+ nav {
+  width: 100%;
+ }
+ nav ul {
+  float: right;
+  margin: 50px 25px 0 0;
+ }
+ section {
+  clear:both;
+  margin:0;
+ }
+}
+
+@media only screen and (max-width:550px) {
+ ul.gallery {
+  -webkit-column-count: 2;
+  -moz-column-count: 2; 
+  column-count: 2;
+ }
+}
+
+@media only screen and (max-width:485px) {
+   ul.gallery {
+  -webkit-column-count: 1;
+  -moz-column-count: 1; 
+  column-count: 1;
+ }
+ nav img {
+  width: 100%;
+ }
+  nav ul {
+    float: none;
+    width: auto;
+    text-align: center;
+    margin: 0 auto;
+  }
+}
+
  .gallery img {
  	width: 400px;
   margin: 0 0 15px 0;
