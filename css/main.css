@@ -12,9 +12,6 @@ a {
 }
 nav {
 	width: 300px;
-  position: absolute;
-  top: 0;
-  left: 0;
 }
 
 nav img {
@@ -72,7 +69,6 @@ section p {
  }
 
 
-
  @media only screen and (max-width:850px) {
  nav {
   width: 100%;
@@ -95,12 +91,7 @@ section p {
  }
 }
 
-@media only screen and (max-width:485px) {
-   ul.gallery {
-  -webkit-column-count: 1;
-  -moz-column-count: 1; 
-  column-count: 1;
- }
+@media only screen and (max-width:500px) {
  nav img {
   width: 100%;
  }
@@ -108,10 +99,16 @@ section p {
     float: none;
     width: auto;
     text-align: center;
-    margin: 0 auto;
+    margin: 25px auto;
   }
 }
-
+@media only screen and (max-width:400px) {
+   ul.gallery {
+  -webkit-column-count: 1;
+  -moz-column-count: 1; 
+  column-count: 1;
+ }
+ }
  .gallery img {
  	width: 400px;
   margin: 0 0 15px 0;
