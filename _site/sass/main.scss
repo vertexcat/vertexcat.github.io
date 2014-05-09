@@ -51,7 +51,6 @@ nav {
     text-transform: uppercase;
   }
 }
-
 section {
   margin-left: 300px;
   padding: 20px;
@@ -64,6 +63,21 @@ section {
     max-height: 600px;
   }
 }
+ul.gallery {
+  list-style-type: none;
+  margin: 25px 0 0 0;
+  padding: 0;
+  height: auto;
+  -webkit-column-count: 3;
+  -moz-column-count: 3; 
+  column-count: 3;
+  img {
+    width: 400px;
+    margin: 0 0 15px 0;
+    padding: 0;
+  }
+}
+
 article {
   margin-left: 300px;
   padding: 20px;
@@ -81,20 +95,6 @@ article {
 .right {
   float: right;
 }
- ul.gallery {
- 	list-style-type: none;
- 	margin: 25px 0 0 0;
- 	padding: 0;
-  height: auto;
-  -webkit-column-count: 3;
-  -moz-column-count: 3; 
-  column-count: 3;
-  img {
-    width: 400px;
-    margin: 0 0 15px 0;
-    padding: 0;
-  }
- }
 
 .nav_arrows a {
   text-decoration: none;
@@ -106,30 +106,29 @@ footer {
  	margin: 75px 0 90px 0;
  	text-align: center;
 }
-  @media only screen and (max-width:850px) {
- nav {
-  width: 100%;
- }
- nav ul {
-  float: right;
-  margin: 50px 25px 0 0;
- }
- section, article {
-  clear:both;
-  margin:0;
- }
+@media only screen and (max-width:850px) {
+  nav {
+    width: 100%;
+  }
+  nav ul {
+    float: right;
+    margin: 50px 25px 0 0;
+  }
+  section, article {
+    clear:both;
+    margin:0;
+  }
 }
 
 @media only screen and (max-width:634px) {
- ul.gallery {
-  -webkit-column-count: 2;
-  -moz-column-count: 2; 
-  column-count: 2;
- }
-
- nav img {
-  width: 100%;
- }
+  ul.gallery {
+    -webkit-column-count: 2;
+    -moz-column-count: 2; 
+    column-count: 2;
+  }
+  nav img {
+    width: 100%;
+  }
   nav ul {
     float: none;
     width: auto;
@@ -137,17 +136,18 @@ footer {
     margin: 25px auto;
   }
 }
+
 @media only screen and (max-width:400px) {
-   ul.gallery {
-  -webkit-column-count: 1;
-  -moz-column-count: 1; 
-  column-count: 1;
- }
- }
- 
-  @media only screen and (min-width:851px) {
-nav ul {
-   position: absolute;
-  top: 140px;
+  ul.gallery {
+    -webkit-column-count: 1;
+    -moz-column-count: 1; 
+    column-count: 1;
+  }
 }
+
+@media only screen and (min-width:851px) {
+  nav ul {
+    position: absolute;
+    top: 140px;
+  }
 }

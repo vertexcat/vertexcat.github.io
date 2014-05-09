@@ -68,13 +68,13 @@ nav a {
   text-transform: uppercase;
 }
 
-/* line 55, ../sass/main.scss */
+/* line 54, ../sass/main.scss */
 section {
   margin-left: 300px;
   padding: 20px;
   width: auto;
 }
-/* line 59, ../sass/main.scss */
+/* line 58, ../sass/main.scss */
 section img {
   max-width: 100%;
   display: block;
@@ -83,31 +83,7 @@ section img {
   max-height: 600px;
 }
 
-/* line 67, ../sass/main.scss */
-article {
-  margin-left: 300px;
-  padding: 20px;
-  width: auto;
-}
-/* line 71, ../sass/main.scss */
-article img {
-  width: 250px;
-  margin: 0;
-  padding: 0;
-  float: left;
-}
-
-/* line 78, ../sass/main.scss */
-.left {
-  float: left;
-}
-
-/* line 81, ../sass/main.scss */
-.right {
-  float: right;
-}
-
-/* line 84, ../sass/main.scss */
+/* line 66, ../sass/main.scss */
 ul.gallery {
   list-style-type: none;
   margin: 25px 0 0 0;
@@ -117,11 +93,35 @@ ul.gallery {
   -moz-column-count: 3;
   column-count: 3;
 }
-/* line 92, ../sass/main.scss */
+/* line 74, ../sass/main.scss */
 ul.gallery img {
   width: 400px;
   margin: 0 0 15px 0;
   padding: 0;
+}
+
+/* line 81, ../sass/main.scss */
+article {
+  margin-left: 300px;
+  padding: 20px;
+  width: auto;
+}
+/* line 85, ../sass/main.scss */
+article img {
+  width: 250px;
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+
+/* line 92, ../sass/main.scss */
+.left {
+  float: left;
+}
+
+/* line 95, ../sass/main.scss */
+.right {
+  float: right;
 }
 
 /* line 99, ../sass/main.scss */
@@ -164,12 +164,12 @@ footer {
     column-count: 2;
   }
 
-  /* line 130, ../sass/main.scss */
+  /* line 129, ../sass/main.scss */
   nav img {
     width: 100%;
   }
 
-  /* line 133, ../sass/main.scss */
+  /* line 132, ../sass/main.scss */
   nav ul {
     float: none;
     width: auto;
