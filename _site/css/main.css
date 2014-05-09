@@ -12,6 +12,9 @@ a {
 }
 nav {
 	width: 300px;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 nav img {
@@ -60,7 +63,7 @@ section p {
 }
  ul.gallery {
  	list-style-type: none;
- 	margin: 0;
+ 	margin: 25px 0 0 0;
  	padding: 0;
   height: auto;
   -webkit-column-count: 3;
