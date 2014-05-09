@@ -50,6 +50,7 @@ section img {
 
 section p {
   clear: both;
+  line-height: 25px;
 }
 
 .left {
