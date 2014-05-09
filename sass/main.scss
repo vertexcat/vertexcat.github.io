@@ -21,6 +21,9 @@ a {
 	padding: 0;
 }
 nav {
+  position: absolute;
+  left: 0;
+  top: 0;
 	width: 300px;
   img {
     width: 300px;
@@ -36,6 +39,7 @@ nav {
   ul {
     list-style-type: none;
     padding: 0;
+    margin: 0;
   }
   li {
     display: inline;
@@ -71,9 +75,6 @@ article {
   }
 }
 
-
-
-
 .left {
   float: left;
 }
@@ -105,7 +106,6 @@ footer {
  	margin: 75px 0 90px 0;
  	text-align: center;
 }
-
   @media only screen and (max-width:850px) {
  nav {
   width: 100%;
@@ -144,6 +144,7 @@ footer {
   column-count: 1;
  }
  }
+ 
   @media only screen and (min-width:851px) {
 nav ul {
    position: absolute;
