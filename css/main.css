@@ -36,7 +36,7 @@ nav img {
 
 section {
 	margin-left: 300px;
-	padding: 0;
+	padding: 20px;
 	width: auto;
 }
 
@@ -117,13 +117,15 @@ section p {
 
 
  article {
-  clear: both;
+
   padding: 0 20px;
-  width: 100%;
+  width: auto;
+  margin-left: 300px;
  }
  article img {
   width: 250px;
-  float:right;
+  float: right;
+  display: inline-block;
  }
 
 .post_nav a {
