@@ -36,15 +36,16 @@ nav img {
 
 section {
 	clear: both;
-	padding: 0 20px;
+	padding: 0;
 	width: 100%;
 }
 
 section img {
  	max-width: 100%;
  	display: block;
- 	margin: 40px auto;
-  max-height: 800px;
+ 	margin: 0 auto;
+  padding:0;
+  max-height: 600px;
  }
 
 section p {
@@ -61,17 +62,18 @@ section p {
  	list-style-type: none;
  	margin: 0;
  	padding: 0;
-  height: 450px;
-  -webkit-column-count: 4;
-  -moz-column-count: 4; 
-  column-count: 4;
+  height: auto;
+  -webkit-column-count: 3;
+  -moz-column-count: 3; 
+  column-count: 3;
  }
 
  .gallery img {
- 	width: 300px;
-  margin: 0 0 20px 0;
+ 	width: 400px;
+  margin: 0;
   padding: 0;
  }
+
 
  article {
   clear: both;
