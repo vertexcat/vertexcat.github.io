@@ -18,11 +18,17 @@ nav img {
 	width: 300px;
 	float: left;
 }
+img.social {
+  width: 25px;
+  margin: 10px 10px 0 0;
+  float: none;
+  position: relative;
+  top: 5px;
+}
  
  nav ul {
  	list-style-type: none;
- 	float: left;
- 	padding: 15px 0;
+ 	padding: 0;
  }
 
  nav li {
@@ -32,6 +38,8 @@ nav img {
 
  nav a, footer a {
  	text-decoration: none;
+  font-size: 20px;
+  text-transform: uppercase;
  }
 
 section {
@@ -125,15 +133,13 @@ h1 {
  }
 }
 
-@media only screen and (max-width:550px) {
+@media only screen and (max-width:634px) {
  ul.gallery {
   -webkit-column-count: 2;
   -moz-column-count: 2; 
   column-count: 2;
  }
-}
 
-@media only screen and (max-width:500px) {
  nav img {
   width: 100%;
  }
@@ -151,3 +157,9 @@ h1 {
   column-count: 1;
  }
  }
+  @media only screen and (min-width:851px) {
+nav ul {
+   position: absolute;
+  top: 140px;
+}
+}
