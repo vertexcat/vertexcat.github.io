@@ -119,7 +119,7 @@ footer {
   }
   section, article {
     clear:both;
-    margin:0;
+    margin: 140px 0 0 0;
   }
 }
 
@@ -130,16 +130,27 @@ footer {
     column-count: 2;
   }
   nav img {
-    width: 100%;
+    margin: 0 auto;
   }
   nav ul {
     float: none;
     width: auto;
     text-align: center;
-    margin: 25px auto;
+    margin: 50px auto;
   }
 }
 
+@media only screen and (max-width:600px) {
+  nav {
+    position: relative;
+    width: 300px;
+    margin: 0 auto;
+  }
+    section, article {
+    clear:both;
+    margin: 70px 0 0 0;
+  }
+}
 @media only screen and (max-width:400px) {
   ul.gallery {
     -webkit-column-count: 1;
