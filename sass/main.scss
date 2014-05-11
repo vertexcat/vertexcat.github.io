@@ -112,10 +112,10 @@ footer {
 @media only screen and (max-width:850px) {
   nav {
     width: 100%;
-  }
-  nav ul {
-    float: right;
-    margin: 50px 25px 0 0;
+    ul {
+      float: right;
+      margin: 50px 25px 0 0
+    }
   }
   section, article {
     clear:both;
@@ -129,14 +129,16 @@ footer {
     -moz-column-count: 2; 
     column-count: 2;
   }
-  nav img {
-    margin: 0 auto;
-  }
-  nav ul {
+  nav {
+    img {
+      margin: 0 auto;
+    }
+    ul {
     float: none;
     width: auto;
     text-align: center;
     margin: 50px auto;
+    }
   }
 }
 
