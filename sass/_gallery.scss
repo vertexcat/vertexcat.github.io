@@ -1,0 +1,14 @@
+ul.gallery {
+  list-style-type: none;
+  margin: 25px 0 0 0;
+  padding: 0;
+  height: auto;
+  -webkit-column-count: 3;
+  -moz-column-count: 3; 
+  column-count: 3;
+  img {
+    width: 400px;
+    margin: 0 0 15px 0;
+    padding: 0;
+  }
+}

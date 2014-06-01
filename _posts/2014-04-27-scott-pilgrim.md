@@ -1,7 +1,7 @@
 ---
-layout: illustration_page
+layout: project-page
 title: Scott Pilgrim fanart
-category: full-color
+category: illustration
 image: scott-pilgrim.jpg
 ---
 

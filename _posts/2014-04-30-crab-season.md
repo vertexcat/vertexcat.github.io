@@ -1,7 +1,7 @@
 ---
-layout: illustration_page
+layout: project-page
 title: Crab Season pattern
-category: full-color
+category: illustration
 image: crab_beach.jpg
 ---
 

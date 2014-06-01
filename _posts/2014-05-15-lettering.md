@@ -1,7 +1,7 @@
 ---
-layout: illustration_page
+layout: project-page
 title: Lettering
-category: "full-color"
+category: illustration
 image: "make-something.jpg"
 published: true
 ---

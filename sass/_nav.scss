@@ -1,0 +1,44 @@
+nav {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 300px;
+  img {
+    width: 300px;
+    float: left;
+    &.social {
+      width: 25px;
+      margin: 10px 10px 0 0;
+      float: none;
+      position: relative;
+      top: 5px;
+    }
+  }
+  ul.main_nav {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    li {
+      display: inline;
+      padding-left: 30px;
+    }
+    a {
+      text-decoration: none;
+      font-size: 20px;
+      text-transform: uppercase;
+    }
+  }
+  ul.categories {
+    list-style-type:none;
+    margin-top: 75px;
+    li {
+      padding: 8px 0;
+    }
+    .active {
+      color: #ccc;
+    }
+    a {
+      text-decoration: none;
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{% include nav.html %}
+<section>
+<ul class="gallery">
+  {% for post in site.categories.comics %}
+    <li>
+      <a href="{{ post.url }}"><img class="thumb" src="{{ site.url }}/images/comics/thumbs/{{ post.image }}"></a>
+    </li>
+  {% endfor %}
+</ul>
+</section>
+{% include footer.html %}

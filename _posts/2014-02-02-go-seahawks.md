@@ -1,7 +1,7 @@
 ---
-layout: illustration_page
+layout: project-page
 title: Russell Wilson
-category: ltd
+category: illustration
 image: russell.jpg
 ---
 

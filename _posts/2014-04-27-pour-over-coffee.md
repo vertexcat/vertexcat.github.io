@@ -1,7 +1,7 @@
 ---
-layout: illustration_page
+layout: project-page
 title: Pour Over Coffee
-category: full-color
+category: illustration
 image: pour-over.jpg
 ---
 
