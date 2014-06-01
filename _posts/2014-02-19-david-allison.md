@@ -1,6 +1,6 @@
 ---
 layout: project-page
-title: Website artist David Allison
+title: Website for artist David Allison
 category: web
 image: david-allison-art.jpg
 ---
