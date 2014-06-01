@@ -12,7 +12,12 @@
     width: 100%;
     ul {
       float: right;
-      margin: 50px 25px 0 0
+      &.categories {
+        margin-top: 30px;
+        li {
+        padding: 0 110px 0 0;
+        }
+      } 
     }
   }
   section, article {
@@ -28,6 +33,9 @@
     column-count: 2;
   }
   nav {
+    position: relative;
+    width: 300px;
+    margin: 0 auto;
     img {
       margin: 0 auto;
     }
@@ -37,20 +45,21 @@
     text-align: center;
     margin: 50px auto;
     }
+    ul.categories {
+      padding: 0;
+      width: auto;
+      li {
+        padding: 10px 0;
+      }
+    }
   }
-}
-
-@media only screen and (max-width:600px) {
-  nav {
-    position: relative;
-    width: 300px;
-    margin: 0 auto;
-  }
-    section, article {
+  section, article {
     clear:both;
     margin: 70px 0 0 0;
   }
 }
+
+
 @media only screen and (max-width:400px) {
   ul.gallery {
     -webkit-column-count: 1;
