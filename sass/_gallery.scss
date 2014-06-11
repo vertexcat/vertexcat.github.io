@@ -7,8 +7,15 @@ ul.gallery {
   -moz-column-count: 3; 
   column-count: 3;
   img {
-    width: 400px;
+    width: 100%;
     margin: 0 0 15px 0;
     padding: 0;
+    &:hover {
+          opacity: 0.4;
+       transition: opacity .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+    }
   }
 }
