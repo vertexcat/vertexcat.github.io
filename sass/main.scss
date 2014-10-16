@@ -7,6 +7,12 @@
 @import 'text-pages';
 @import 'footer';
 
+@media only screen and (min-width:851px) {
+  nav ul {
+    position: absolute;
+    top: 140px;
+  }
+}
 
 @media only screen and (max-width:850px) {
   nav {
@@ -46,17 +52,23 @@ ul.gallery {
 }
 
 
-@media only screen and (max-width:400px) {
+@media only screen and (max-width:480px) {
   ul.gallery {
     -webkit-column-count: 1;
     -moz-column-count: 1; 
     column-count: 1;
   }
-}
-
-@media only screen and (min-width:851px) {
-  nav ul {
-    position: absolute;
-    top: 140px;
+  nav ul.categories {
+    position: relative;
+    padding: 0;
+    margin: 0;
+    top: -20px;
+    text-align: left;
+    width: 100%;
+    li {
+    display: inline;
+    padding: 0 10px;
+    }
   }
 }
+
