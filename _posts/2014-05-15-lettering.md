@@ -1,7 +1,7 @@
 ---
 layout: project-page
 title: A line from Richard Siken's "Scheherazade"
-category: illustration
+category: lettering
 image: "poem-line-pink.jpg"
 published: true
 ---

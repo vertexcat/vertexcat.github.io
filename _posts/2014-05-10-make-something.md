@@ -1,7 +1,7 @@
 ---
 layout: project-page
 title: Make Something
-category: illustration
+category: lettering
 image: make-something.jpg
 published: true
 ---

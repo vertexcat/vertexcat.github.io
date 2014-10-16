@@ -1,7 +1,7 @@
 ---
 layout: project-page
 title: Make Space
-category: illustration
+category: lettering
 image: simon.jpg
 published: true
 ---
