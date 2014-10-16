@@ -5,10 +5,12 @@ nav {
   width: 300px;
   img {
     width: 300px;
+    margin: 45px 0 0 0;
+    padding: 0;
     float: left;
     &.social {
       width: 25px;
-      margin: 10px 10px 0 0;
+      margin: 10px 0 0 10px;
       float: none;
       position: relative;
       top: 5px;
@@ -17,10 +19,10 @@ nav {
   ul.main_nav {
     list-style-type: none;
     padding: 0;
-    margin: 0;
+    margin: -20px 0 0 0;
     li {
       display: inline;
-      padding-left: 30px;
+      padding: 0 0 0 30px;
     }
     a {
       text-decoration: none;
@@ -30,7 +32,9 @@ nav {
   }
   ul.categories {
     list-style-type:none;
-    margin-top: 75px;
+    margin-top: 60px;
+    width: 250px;
+    text-align: right;
     li {
       padding: 8px 0;
     }
