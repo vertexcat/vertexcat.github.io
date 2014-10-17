@@ -12,17 +12,16 @@ nav {
       width: 25px;
       margin: 10px 0 0 10px;
       float: none;
-      position: relative;
-      top: 5px;
     }
   }
   ul.main_nav {
     list-style-type: none;
     padding: 0;
     margin: -20px 0 0 0;
+    width: 100%;
     li {
       display: inline;
-      padding: 0 0 0 30px;
+      padding: 0 0 0 40px;
     }
     a {
       text-decoration: none;
@@ -32,7 +31,7 @@ nav {
   }
   ul.categories {
     list-style-type:none;
-    margin-top: 60px;
+    margin-top: 30px;
     width: 250px;
     text-align: right;
     li {
@@ -43,6 +42,16 @@ nav {
     }
     a {
       text-decoration: none;
+    }
+  }
+  ul.social {
+    list-style-type:none;
+    position: relative; 
+    right: 0;
+    margin-top: 40px;
+    li {
+      display: inline;
+
     }
   }
 }

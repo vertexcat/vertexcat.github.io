@@ -4,3 +4,4 @@ title: Pour Over Coffee
 category: illustration
 image: pour-over.jpg
 ---
+[Purchase a print here](http://www.inprnt.com/gallery/hicrista/volunteer-park-seattle/).
