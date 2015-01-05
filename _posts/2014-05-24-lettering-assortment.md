@@ -16,3 +16,11 @@ There's also a pen and ink version [here]({{site.url}}/drawn/2015/01/01/dropcaps
 
 4. A line from Richard Siken's "Scheherazade."
 Read the poem [here](http://yupnet.org/siken/2008/03/21/scheherazade/).
+
+![Man Over Board logo]({{site.url}}/images/digital/mob-logo.jpg)
+
+![Drop Cap C]({{site.url}}/images/digital/strange_norrell.jpg)
+
+!["Make Something" lettering]({{site.url}}/images/digital/make-something.jpg)
+
+![poem lettering]({{site.url}}/images/digital/poem-line-pink.jpg)
