@@ -2,7 +2,7 @@ nav {
   position: absolute;
   left: 0;
   top: 0;
-  width: 100%;
+  width: 320px;
   padding: 10px;  
   a {
     text-decoration: none;
@@ -30,6 +30,9 @@ nav {
     margin-top: .5em;
     li {
     padding: 0 2.4em 0 0;
+      &:last-of-type {
+        padding: 0;
+      }
     }
   }
   ul.categories {
@@ -37,6 +40,9 @@ nav {
     margin-top: 1.25em;
     li {
       padding: 0 5.6em 0 0;
+      &:last-of-type {
+        padding: 0;
+      }
     }  
   }
 }

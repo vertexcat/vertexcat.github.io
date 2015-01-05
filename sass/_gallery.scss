@@ -7,6 +7,9 @@ ul.gallery {
   -webkit-column-count: 1;
   -moz-column-count: 1; 
   column-count: 1;
+  a, img {
+    display: block
+  }
   img {
     width: 100%;
     margin: 0 0 15px 0;
