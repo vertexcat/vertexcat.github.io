@@ -3,7 +3,7 @@ layout: project-page
 title: Lettering Assortment
 category: digital
 image: lettering-assortment.jpg
-published: true
+published: false
 ---
 Clockwise from upper left: 
 

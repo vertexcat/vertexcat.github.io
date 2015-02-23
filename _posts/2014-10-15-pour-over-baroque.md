@@ -1,7 +1,7 @@
 ---
 layout: project-page
 title: Pour-Over / Baroque
-category: digital
+category: drawn
 image: paper-misc.jpg
 published: true
 ---

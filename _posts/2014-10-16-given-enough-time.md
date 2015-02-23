@@ -1,7 +1,7 @@
 ---
 layout: project-page
 title: Given enough time, we all talk ourselves out of great ideas
-category: digital
+category: drawn
 image: given-enough-time-web.jpg
 published: true
 ---
