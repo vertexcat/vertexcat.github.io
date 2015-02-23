@@ -3,7 +3,7 @@ layout: project-page
 title: Measured in Milligrams
 category: drawn
 image: mmg.png
-published: false
+published: true
 ---
 A few pages from the "Measured in Milligrams" minicomic (available soon!). 
 
@@ -16,3 +16,5 @@ A few pages from the "Measured in Milligrams" minicomic (available soon!).
 ![Measured in Milligrams]({{site.url}}/images/drawn/mmg_heart.png)
 
 ![Measured in Milligrams]({{site.url}}/images/drawn/mmg_anxiety.png)
+
+![Measured in Milligrams]({{site.url}}/images/drawn/mmg_lilies.png)
