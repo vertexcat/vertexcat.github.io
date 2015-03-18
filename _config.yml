@@ -1,2 +1,4 @@
 markdown:    redcarpet
 permalink: 	 pretty
+sass:
+  style: compressed
