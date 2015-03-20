@@ -8,6 +8,9 @@ nav {
     position: relative; 
     margin: 0 auto;  
   }
+  img.wordmark {
+    width: 100%;
+  }
   a {
     text-decoration: none;
   }  
@@ -18,14 +21,6 @@ nav {
   }
   li {
     display: inline;
-  }
-  .name {
-    font-family: 'Oswald';
-    font-size: 2.5em;
-    text-transform: uppercase;
-  }
-  .tagline {
-    font-size: 2.05em;
   }
   ul.main_nav {
     font-size: 1.4em;
