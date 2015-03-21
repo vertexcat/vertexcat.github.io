@@ -1,7 +1,7 @@
 ---
 layout: project-page
 title: Logo for Man Over Board
-category: digital
+category: drawn
 image: mob-logo.jpg
 published: false
 ---

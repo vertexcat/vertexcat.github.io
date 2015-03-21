@@ -3,7 +3,7 @@ layout: project-page
 title: Pour-Over / Baroque
 category: drawn
 image: paper-misc.jpg
-published: true
+published: false
 ---
 Some cut paper inspired illustrations. 
 
