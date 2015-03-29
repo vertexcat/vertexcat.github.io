@@ -2,25 +2,23 @@ ul.gallery {
   list-style-type: none;
   width: 100%;
   max-width: 800px;
-  margin: 0;
-  padding: 0;
-  height: auto;
   -webkit-column-count: 2;
   -moz-column-count: 2; 
   column-count: 2;
+  padding: 0;
+  margin: 0;
   a, img {
-    display: block
+    display: block;
   }
   img {
     width: 100%;
     margin: 0 0 15px 0;
-    padding: 0;
     &:hover {
-          opacity: 0.4;
-       transition: opacity .5s ease-out;
-    -moz-transition: opacity .5s ease-out;
-    -webkit-transition: opacity .5s ease-out;
-    -o-transition: opacity .5s ease-out;
+      opacity: 0.4;
+      transition: opacity .5s ease-out;
+      -moz-transition: opacity .5s ease-out;
+      -webkit-transition: opacity .5s ease-out;
+      -o-transition: opacity .5s ease-out;
     }
   }
 }

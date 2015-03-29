@@ -1,0 +1,26 @@
+{% include head.html %}
+{% include analytics_blog.html %}
+{% include nav.html %}
+<section>
+
+<h1>{{ page.title }}</h1>
+
+ {{ content }}
+
+ <span class="post-date">
+        Posted on <a href="{{ page.url }}">{{ page.date | date: "%d %B %Y" }}</a> | 
+        <a href="https://twitter.com/intent/tweet?screen_name=hicrista">
+        <i class="fa fa-twitter-square"></i> 
+	       Tweet to comment
+	       </a>
+         <br>
+         <i class="fa fa-tags"></i> 
+         {% for tag in post.tags %}
+           <a class="tag-link" href="/tags#{{ tag }}">{{ tag }}</a>
+           <span class="tag-divider">&#8226;</span>
+           {% endfor %}
+      </span>
+     
+ </span>
+</section>
+{% include footer.html %}

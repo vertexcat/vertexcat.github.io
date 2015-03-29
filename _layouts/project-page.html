@@ -1,10 +1,12 @@
+{% include head.html %}
+{% include analytics_main.html %}
 {% include nav.html %}
 
 <section>
 
 <h1>{{ page.title }}</h1>
 
-<img class="main" src="{{ site.url }}/images/{{ page.category }}/{{ page.image }}">
+<img class="main" src="/images/{{ page.category }}/{{ page.image }}">
 
  {{ content }}
 

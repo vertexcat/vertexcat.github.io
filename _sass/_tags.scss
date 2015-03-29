@@ -1,0 +1,11 @@
+ul.tags {
+ 	list-style-type:none;
+	margin: 0 0 3em 0;
+	padding: 0;
+}
+a.tag-link {
+	text-transform: uppercase;
+}
+.tag-divider:last-of-type {
+	display: none;
+}
