@@ -17,11 +17,11 @@ p {
   line-height: 25px;
 }
 a {
-  color: #2a2a2a;
-  section &, article & {
-    color: #2793af;
-    text-decoration: none;
-    font-weight: bold;
+  color: #f53c8c;
+  text-decoration: none;
+  font-weight: bold;
+  nav & {
+    color: #2a2a2a;
   }
 }
 .container {
