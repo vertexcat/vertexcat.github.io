@@ -1,17 +1,18 @@
 html, body {
   font-family: $font-stack;
   overflow-x: hidden; 
+
 }
 
 h1 {
-  font-weight: 400;
-  font-size: 22px;
-  padding: 6px;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 5px 5px 5px 8px;
   text-transform: uppercase;
-  font-weight: 700;
   width: 100%;
   background: #000;
   color: #fff;
+  line-height: 21px;
 }
 
 p {
@@ -29,9 +30,10 @@ a {
 }
 
 .container {
-  width: 90%;
+  width: 100%;
   margin: 0;
-  padding: 0 25px;
+  padding: 0;
+  overflow: hidden;
 }
 
 .left {

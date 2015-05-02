@@ -1,18 +1,19 @@
-section {
-  margin: 0 0 0 350px;
+section, article {
+  padding: 0 1em;
+  margin: 0 10px 0 270px;
   width: auto;
   @media screen and (max-width: 799px) {
-    margin: 60px auto;  
-    width: 80%;
+    margin-left: 0;
   }
   h1 {
     text-align: left;
   }
   img {
-    width: 80%;
+    width: 100%;
+    max-width: 800px;
     display: block;
     margin: 0 auto;
-    padding:40px 0;
+    padding: 0;
   }
   ul.blog-roll li ul li {
   padding: 0 0 .5em 0;

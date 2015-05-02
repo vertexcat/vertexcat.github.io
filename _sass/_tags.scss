@@ -1,10 +1,20 @@
+article.tag-list {
+	-webkit-column-count: 2;
+  -moz-column-count: 2; 
+  column-count: 2;
+}
 ul.tags {
  	list-style-type:none;
 	margin: 0 0 3em 0;
 	padding: 0;
+	li {
+		padding: .4em;
+	}
+
 }
 a.tag-link {
 	text-transform: uppercase;
+	color: #000;
 }
 .tag-divider:last-of-type {
 	display: none;

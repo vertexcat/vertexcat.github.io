@@ -2,7 +2,7 @@
 layout: blog-post
 title: To (Co)Create for 100 Days
 published: true
-tags: [projects]
+tags: [project, personal]
 ---
 [Elle Luna](http://elleluna.com/) and [The Great Discontent](https://thegreatdiscontent.com/) have launched [The 100 Day Project](https://thegreatdiscontent.com/100days): you commit to doing some kind of action and posting the results on Instagram every day for 100 consecutive days.  
  
@@ -15,7 +15,7 @@ I think watching people approach a single topic, concept, or medium in different
 * [100 days of card concepts](https://instagram.com/explore/tags/100daysofcardconcepts/) by [@roshamboco](https://instagram.com/roshamboco/), including gems like "I show my lovin' via my oven"
 * [100 days of cut paper](https://instagram.com/explore/tags/100daysofcutpaper/) by [@briannevp](https://instagram.com/briannevp/). My favorites so far are cut paper Link and cut paper Holly Golightly. 
 * Beautiful city illustrations by [@nicemiceforyou](https://instagram.com/nicemiceforyou)
-* And there was one more that was 100 days of drawing faces on things. So much potential for hilarity, but I forgot to follow or bookmark! 
+* ~~And there was one more that was 100 days of drawing faces on things. So much potential for hilarity, but I forgot to follow or bookmark!~~ Found it! [100 days of things with faces](https://instagram.com/explore/tags/100daysofthingswithfaces/) by [@hellopandreaa](https://instagram.com/hellopandreaa) is full of startled hot dogs and and distressed ice creams. 
 
 I'm tackling 100 illustrations of 100 of my favorite things. So far, I have favorite drink, favorite coffee prep method, and favorite city I've visited:
 ![Some favorite things](/images/blog/100daysmft-1-3.png) 
