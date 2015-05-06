@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="description" content="Crista Alejandre - Illustration and Comics" />
     <meta name="viewport" content="width=device-width">
-    <title>Browse Posts by Tags</title>
+    <title>Autohotkey - Blender Tip</title>
     <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/css/main.css">
@@ -125,104 +125,58 @@
       </div>
     </nav>
 
-<article class="tag-list">
-	
+<section>
+
+<h1>Autohotkey - Blender Tip</h1>
+
+ <p>Blender users: <strong>speed up your modeling process by remapping &quot;delete&quot; to the left side of your keyboard!</strong> Read on to learn more. </p>
+
+<p>Having freelance work and a day job means that I&#39;m all about saving time. One of the great things about <a href="/blog/to-co-create/">#the100dayproject</a> is that it forces you to find, learn, and apply shortcuts so you can just get the thing done. </p>
+
+<p>One HUGE timesaver has been <a href="http://www.autohotkey.com/">Autohotkey</a>. <a href="http://lifehacker.com/316589/turn-any-action-into-a-keyboard-shortcut">Lifehacker has a nice writeup</a> on how AHK can be useful for almost any computer user, but one really handy trick specific to Blender is to <strong>remap the Delete key.</strong> </p>
+
+<p>I think Blender almost forces you to learn its keyboard shortcuts, unless you have infinite patience and a very steady mouse hand (which I do not). This is all well and good (if you mouse with your right hand), because most of the common keys and key combinations you use in modeling are on the left side of the keyboard <em>except for delete</em>. </p>
+
+<p>Jumping between to and from delete with your left hand almost becomes a piano exercise, which I think is a pain in the butt. So this is where AHK comes in: you can write a short script that remaps delete to a key of your choice, and have it only run in Blender. I chose Caps Lock, and this is what my AHK script looks like:</p>
+<div class="highlight"><pre><code class="language-text" data-lang="text">#IfWinActive, Blender
+{
+    Capslock::Delete
+    !Capslock::ExitApp
+Return
+}
+</code></pre></div>
+<p>Easy! The !Capslock (Alt+Caps Lock) isn&#39;t strictly necessary, but I like to put an escape button into every AHK script in case I mess things up. I put this script into my startup folder so that it launches automatically and just stays on; since the script only runs when Blender is the active window, I can still use Caps Lock normally in other applications. </p>
+
+<p>If you Google for <em>blender caps lock</em> or similar you&#39;ll see that Caps Lock is something that a lot of people complain about. Another useful remapping is to make Caps Lock an extra Shift or Control key, since that might better fit the shape and angle of your hand. </p>
+
+<p>Finally, if you want to do this but don&#39;t want to use AHK, <a href="http://lifehacker.com/5715026/remap-your-capslock-key-sans-autohotkey-or-third-party-apps">Lifehacker tells you how with Windows Server 2003 Resource Kit Tools</a>. </p>
 
 
-
-  <i class="fa fa-tags"></i> 
-  <a class="tag-link">announcement</a>
-  <ul class="tags">
-  
-    <li><a href="/coming-soon">Coming Soon</a> on 17 March 2015</li>
-  
-  </ul>
-
-  <i class="fa fa-tags"></i> 
-  <a class="tag-link">blender</a>
-  <ul class="tags">
-  
-    <li><a href="/blog/ahk-blender">Autohotkey - Blender Tip</a> on 29 April 2015</li>
-  
-  </ul>
-
-  <i class="fa fa-tags"></i> 
-  <a class="tag-link">infographic</a>
-  <ul class="tags">
-  
-    <li><a href="/blog/theory-of-change">The Theory of Change infographic project</a> on 29 April 2015</li>
-  
-  </ul>
-
-  <i class="fa fa-tags"></i> 
-  <a class="tag-link">low-poly</a>
-  <ul class="tags">
-  
-    <li><a href="/blog/ahk-blender">Autohotkey - Blender Tip</a> on 29 April 2015</li>
-  
-  </ul>
-
-  <i class="fa fa-tags"></i> 
-  <a class="tag-link">modeling</a>
-  <ul class="tags">
-  
-    <li><a href="/blog/ahk-blender">Autohotkey - Blender Tip</a> on 29 April 2015</li>
-  
-  </ul>
-
-  <i class="fa fa-tags"></i> 
-  <a class="tag-link">museum</a>
-  <ul class="tags">
-  
-    <li><a href="/blog/theory-of-change">The Theory of Change infographic project</a> on 29 April 2015</li>
-  
-  </ul>
-
-  <i class="fa fa-tags"></i> 
-  <a class="tag-link">pattern</a>
-  <ul class="tags">
-  
-    <li><a href="/northwest-pattern">Northwest</a> on 28 March 2015</li>
-  
-  </ul>
-
-  <i class="fa fa-tags"></i> 
-  <a class="tag-link">personal</a>
-  <ul class="tags">
-  
-    <li><a href="/blog/to-co-create">To (Co)Create for 100 Days</a> on 09 April 2015</li>
-  
-    <li><a href="/northwest-pattern">Northwest</a> on 28 March 2015</li>
-  
-  </ul>
-
-  <i class="fa fa-tags"></i> 
-  <a class="tag-link">project</a>
-  <ul class="tags">
-  
-    <li><a href="/blog/theory-of-change">The Theory of Change infographic project</a> on 29 April 2015</li>
-  
-    <li><a href="/blog/to-co-create">To (Co)Create for 100 Days</a> on 09 April 2015</li>
-  
-  </ul>
-
-  <i class="fa fa-tags"></i> 
-  <a class="tag-link">tips</a>
-  <ul class="tags">
-  
-    <li><a href="/blog/ahk-blender">Autohotkey - Blender Tip</a> on 29 April 2015</li>
-  
-  </ul>
-
-  <i class="fa fa-tags"></i> 
-  <a class="tag-link">wip</a>
-  <ul class="tags">
-  
-    <li><a href="/northwest-pattern">Northwest</a> on 28 March 2015</li>
-  
-  </ul>
-
-</article>
+ <span class="post-date">
+        Posted on <a href="/blog/ahk-blender">29 April 2015</a> | 
+        <a href="https://twitter.com/intent/tweet?screen_name=hicrista">
+        <i class="fa fa-twitter-square"></i> 
+	       Tweet to comment
+	       </a>
+         <br>
+         <i class="fa fa-tags"></i> 
+         
+           <a class="tag-link" href="/tags#tips">tips</a>
+           <span class="tag-divider">&#8226;</span>
+           
+           <a class="tag-link" href="/tags#blender">blender</a>
+           <span class="tag-divider">&#8226;</span>
+           
+           <a class="tag-link" href="/tags#modeling">modeling</a>
+           <span class="tag-divider">&#8226;</span>
+           
+           <a class="tag-link" href="/tags#low-poly">low-poly</a>
+           <span class="tag-divider">&#8226;</span>
+           
+      </span>
+     
+ </span>
+</section>
 
 <footer>
 	<!--<p>&copy; 2015 <a href="/index.html">Crista Alejandre</a></p>-->
