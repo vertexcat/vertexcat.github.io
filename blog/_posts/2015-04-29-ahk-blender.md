@@ -3,6 +3,7 @@ layout: blog-post
 title: Autohotkey - Blender Tip
 published: true		
 tags: [tips, blender, modeling, 'low-poly']
+permalink: ahk-blender
 ---
 Blender users: **speed up your modeling process by remapping "delete" to the left side of your keyboard!** Read on to learn more. 
 
