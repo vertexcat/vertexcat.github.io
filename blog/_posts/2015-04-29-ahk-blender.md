@@ -7,7 +7,7 @@ permalink: ahk-blender
 ---
 Blender users: **speed up your modeling process by remapping "delete" to the left side of your keyboard!** Read on to learn more. 
 
-Having freelance work and a day job means that I'm all about saving time. One of the great things about [#the100dayproject](/blog/to-co-create/) is that it forces you to find, learn, and apply shortcuts so you can just get the thing done. 
+Having freelance work and a day job means that I'm all about saving time. One of the great things about [#the100dayproject](/100-day-project/) is that it forces you to find, learn, and apply shortcuts so you can just get the thing done. 
 
 One HUGE timesaver has been [Autohotkey](http://www.autohotkey.com/). [Lifehacker has a nice writeup](http://lifehacker.com/316589/turn-any-action-into-a-keyboard-shortcut) on how AHK can be useful for almost any computer user, but one really handy trick specific to Blender is to **remap the Delete key.** 
 

@@ -3,6 +3,7 @@ layout: blog-post
 title: To (Co)Create for 100 Days
 published: true
 tags: [project, personal]
+permalink: 100-day-project
 ---
 [Elle Luna](http://elleluna.com/) and [The Great Discontent](https://thegreatdiscontent.com/) have launched [The 100 Day Project](https://thegreatdiscontent.com/100days): you commit to doing some kind of action and posting the results on Instagram every day for 100 consecutive days.  
  

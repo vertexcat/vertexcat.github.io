@@ -1,6 +1,7 @@
 ---
 layout: blog-post
 title: The Theory of Change infographic project 
+permalink: theory-of-change
 published: true
 tags: [project, infographic, museum]
 ---
