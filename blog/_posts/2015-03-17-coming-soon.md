@@ -2,7 +2,7 @@
 layout: blog-post
 title: Coming Soon
 published: true
-permalink: coming-soon
+permalink: blog/coming-soon
 tags: announcement
 redirect_from: "/blog/2015/03/17/coming-soon/"
 ---
