@@ -8,6 +8,7 @@
     <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="/css/main.css">
+    <script src="js/modernizr.custom.js"></script>
 <!--
 /**
  * @license
@@ -125,43 +126,61 @@
       </div>
     </nav>
 
-<section>
-<ul class="gallery">
+<section class="grid-wrap">
+<ul class="gallery grid swipe-down" id="grid">
   
     <li>
       <a href="/food"><img src="/images/illustration/food1.png"></a>
+      <h3>Snacks</h3>
     </li>
   
     <li>
       <a href="/tools"><img src="/images/illustration/pens-bendy.png"></a>
+      <h3>Tools</h3>
     </li>
   
     <li>
       <a href="/posture"><img src="/images/illustration/posture_lead.png"></a>
+      <h3>Posture</h3>
     </li>
   
     <li>
       <a href="/design-thinking"><img src="/images/illustration/DT-00.png"></a>
+      <h3>Design Thinking</h3>
     </li>
   
     <li>
       <a href="/museum-handbook"><img src="/images/illustration/handbook-1.png"></a>
+      <h3>Engagement Handbook</h3>
     </li>
   
     <li>
       <a href="/man-over-board"><img src="/images/illustration/mob-logo.jpg"></a>
+      <h3>Man Over Board</h3>
     </li>
   
     <li>
       <a href="/make-space"><img src="/images/illustration/make_space.png"></a>
+      <h3>Make Space</h3>
     </li>
   
     <li>
       <a href="/measured-in-milligrams"><img src="/images/illustration/mmg.png"></a>
+      <h3>Measured in Milligrams</h3>
     </li>
   
 </ul>
 </section>
+<script src="js/masonry.pkgd.min.js"></script>
+		<script src="js/imagesloaded.pkgd.min.js"></script>
+		<script src="js/classie.js"></script>
+		<script src="js/colorfinder-1.1.js"></script>
+		<script src="js/gridScrollFx.js"></script>
+		<script>
+			new GridScrollFx( document.getElementById( 'grid' ), {
+				viewportFactor : 0.4
+			} );
+		</script>
 
 <footer>
 	<!--<p>&copy; 2015 <a href="/index.html">Crista Alejandre</a></p>-->

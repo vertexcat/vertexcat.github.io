@@ -1,13 +1,24 @@
 {% include head.html %}
 {% include analytics_main.html %}
 {% include nav.html %}
-<section>
-<ul class="gallery">
+<section class="grid-wrap">
+<ul class="gallery grid swipe-down" id="grid">
   {% for post in site.categories.illustration %}
     <li>
       <a href="{{ post.url }}"><img src="/images/illustration/{{ post.image }}"></a>
+      <h3>{{ post.title }}</h3>
     </li>
   {% endfor %}
 </ul>
 </section>
+<script src="js/masonry.pkgd.min.js"></script>
+		<script src="js/imagesloaded.pkgd.min.js"></script>
+		<script src="js/classie.js"></script>
+		<script src="js/colorfinder-1.1.js"></script>
+		<script src="js/gridScrollFx.js"></script>
+		<script>
+			new GridScrollFx( document.getElementById( 'grid' ), {
+				viewportFactor : 0.4
+			} );
+		</script>
 {% include footer.html %}
