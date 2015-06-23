@@ -5,7 +5,7 @@
 	max-width: 1260px;
 	@media screen and (max-width: 799px) {
 
-    margin: 0 auto;
+    margin: 0;
   }
 }
 
@@ -27,7 +27,7 @@
 .grid li {
 	display: inline-block;
 	overflow: hidden;
-	width: 314px;
+	width: 250px;
 	text-align: left;
 	vertical-align: top;
 }
@@ -140,7 +140,6 @@
 	color: #fff;
 	text-align: left;
 	text-transform: uppercase;
-	letter-spacing: 1px;
 	font-weight: 800;
 	font-size: 1em;
 	-webkit-transition: -webkit-transform 0.2s, color 0.2s;
