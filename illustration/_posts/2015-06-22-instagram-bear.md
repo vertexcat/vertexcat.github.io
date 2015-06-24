@@ -1,7 +1,7 @@
 ---
-title: Chirashi
+title: Character design - celebration bear
 category: illustration
-image: food-5.png
+image: char-1.png
 published: true
 layout: project-page
 ---

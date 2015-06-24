@@ -1,5 +1,5 @@
 ---
-title: Orange Creamsicle
+title: Food series - Orange Creamsicle
 category: illustration
 image: food-2.png
 published: true

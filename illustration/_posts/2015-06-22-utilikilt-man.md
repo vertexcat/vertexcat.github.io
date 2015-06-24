@@ -1,7 +1,7 @@
 ---
-title: Food series - Strawberry Ice Cream
+title: Seattle series - Utilikilt man
 category: illustration
-image: food-6.png
+image: char-3.png
 published: true
 layout: project-page
 ---
