@@ -1,5 +1,5 @@
 ---
-title: Seattle series - topknot kid
+title: Seattle series - topknot
 category: illustration
 image: char-4.png
 published: true

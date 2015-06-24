@@ -1,5 +1,5 @@
 ---
-title: Seattle series - Utilikilt man
+title: Seattle series - Utilikilt
 category: illustration
 image: char-3.png
 published: true

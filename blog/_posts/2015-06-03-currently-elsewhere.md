@@ -3,7 +3,7 @@ layout: blog-post
 title: Currently and Elsewhere
 permalink: currently-elsewhere
 published: true
-tags: [project, personal, social-media]
+tags: [project, personal, social-media, 100-day-project]
 ---
 Two updates: 
 
