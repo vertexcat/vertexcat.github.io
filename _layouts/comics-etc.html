@@ -3,7 +3,7 @@
 {% include nav.html %}
 
 <section class="grid-wrap">
-<ul class="gallery grid swipe-down" id="grid">
+<ul class="gallery grid swipe-down" id="grid2">
   {% for post in site.categories.comics-etc %}
     <li>
       <a href="{{ post.url }}"><img src="/images/comics-etc/{{ post.image }}"></a>
@@ -12,7 +12,7 @@
   {% endfor %}
 </ul>
 
-<div class="paginate left">
+<div class="paginate">
 <h3><a href="/"><i class="fa fa-hand-o-left"></i> Illustrations</a><h3>
 </div>
 
@@ -20,13 +20,13 @@
 
 
 
-<script src="js/masonry.pkgd.min.js"></script>
-		<script src="js/imagesloaded.pkgd.min.js"></script>
-		<script src="js/classie.js"></script>
-		<script src="js/colorfinder-1.1.js"></script>
-		<script src="js/gridScrollFx.js"></script>
+<script src="/js/masonry.pkgd.min.js"></script>
+		<script src="/js/imagesloaded.pkgd.min.js"></script>
+		<script src="/js/classie.js"></script>
+		<script src="/js/colorfinder-1.1.js"></script>
+		<script src="/js/gridScrollFx.js"></script>
 		<script>
-			new GridScrollFx( document.getElementById( 'grid' ), {
+			new GridScrollFx( document.getElementById( 'grid2' ), {
 				viewportFactor : 0.4
 			} );
 		</script>
