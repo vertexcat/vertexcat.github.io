@@ -1,6 +1,7 @@
 {% include head.html %}
 {% include analytics_main.html %}
 {% include nav.html %}
+
 <section class="grid-wrap">
 <ul class="gallery grid swipe-down" id="grid">
   {% for post in site.categories.illustration %}
@@ -10,7 +11,15 @@
     </li>
   {% endfor %}
 </ul>
+
+<div class="paginate">
+<h3><a href="comics-etc">Comics &amp; sequential <i class="fa fa-hand-o-right"></i></a><h3>
+</div>
+
 </section>
+
+
+
 <script src="js/masonry.pkgd.min.js"></script>
 		<script src="js/imagesloaded.pkgd.min.js"></script>
 		<script src="js/classie.js"></script>

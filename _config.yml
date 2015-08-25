@@ -17,6 +17,14 @@ defaults:
     permalink: "/:title"
 -
   scope:
+    path: "comics-etc" # an empty string here means all files in the project
+    type: "posts"
+  values:
+    layout: "project-page"
+    author: "Crista Alejandre"
+    permalink: "/:title"
+-
+  scope:
     path: "blog" # an empty string here means all files in the project
     type: "posts"
   values:

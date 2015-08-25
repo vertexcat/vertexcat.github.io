@@ -14,6 +14,7 @@ nav {
   a {
     text-decoration: none;
   }  
+
   ul.main_nav {
     overflow: hidden;
     font-size: 1.20em;
@@ -42,6 +43,7 @@ nav {
   }
 }
 
+
   /* toggled contact info */
   div#contact {
     width: 15em;  
@@ -49,7 +51,8 @@ nav {
     i {color: $primary-color;}
     ul.social {
     text-align: justify; 
-    padding: 0; margin: 0;
+    padding: 0; 
+    margin: 0 0 3em 0;
       li {
         display: inline-block;
         margin-right: .7em;
@@ -64,3 +67,4 @@ nav {
     }
   }
 }
+

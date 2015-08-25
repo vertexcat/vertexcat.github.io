@@ -11,7 +11,25 @@ ul.gallery {
     -moz-column-count: 2; 
     column-count: 2;
   }
+    @media screen and (max-width: 640px) {
+    -webkit-column-count: 1;
+    -moz-column-count: 1; 
+    column-count: 1;
+  }
 }
+
+.paginate {
+  width: 95%;
+  margin: 0 auto;
+  text-align: right;
+  text-transform: uppercase;
+}
+
+.left {
+  text-align: left;
+  padding-left: 5%;
+}
+
 
 
 
