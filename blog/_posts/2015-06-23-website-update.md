@@ -3,6 +3,7 @@ layout: blog-post
 title: Website Update
 published: true
 tags: [web-dev, announcement]
+permalink: website-update
 ---
 A BIG content update happened today! I drank the Blender Kool-Aid and am going full-blown 3D. 
 

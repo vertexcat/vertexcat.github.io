@@ -4,6 +4,7 @@ image: mmg-1.png
 published: true
 layout: project-page
 category: comics-etc
+permalink: mmg
 ---
 A minicomic on medications, illness, coping, and identity. Printed and staple-bound, approximately 7 x 5 in. 
 

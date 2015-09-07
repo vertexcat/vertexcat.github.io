@@ -4,4 +4,5 @@ category: illustration
 image: food-7.png
 published: true
 layout: project-page
+permalink: frosty-and-fries
 ---

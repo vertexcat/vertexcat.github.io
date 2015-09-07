@@ -4,6 +4,7 @@ image: museum-conference-1.jpg
 published: true
 layout: project-page
 category: comics-etc
+permalink: aam-comics
 ---
 I was asked to attend the 2014 American Alliance of Museums annual meeting for some conference cartooning! Here are the three comics and one illustration that resulted.
  
