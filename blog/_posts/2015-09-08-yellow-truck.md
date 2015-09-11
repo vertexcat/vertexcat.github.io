@@ -1,15 +1,15 @@
 ---
 layout: blog-post
-title: Yellow Truck (part 1)
+title: Yellow Truck
 published: true
-tags: [blender, cycles, 3d, personal, project]
+tags: [blender, cycles, 3d, personal, project, completed]
 permalink: yellow-truck
 ---
-I have been expermenting a lot with more realistic shaders and modeling and am really happy with this personal project I started and finished over Labor Day weekend. First, the final image:
+I have been experimenting a lot with more realistic shaders and modeling and am really happy with this personal project I started and finished over Labor Day weekend. First, the final image:
 
 ![Yellow Truck by Crista Alejandre](/images/blog/yellow-truck-1.png)
 
-Credits/resources used: 
+## Credits & Resources
 
 * HDRi image by [Greg Zaal/Adaptive Samples](http://adaptivesamples.com/)
 * Fingerprint and scratch maps by [Hexbob6 via StackExchange](http://blender.stackexchange.com/questions/32494/how-to-make-dirty-looking-object)

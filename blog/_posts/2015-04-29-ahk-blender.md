@@ -5,6 +5,8 @@ published: true
 tags: [tips, blender, modeling, 'low-poly']
 permalink: ahk-blender
 ---
+> **Update:** Blender does have a left-hand delete key built in, which is the "x" key y default. But this script has come in handy for other applications - Word documents where you're doing a lot of copying, pasting, and deleting maybe. 
+
 Blender users: **speed up your modeling process by remapping "delete" to the left side of your keyboard!** Read on to learn more. 
 
 Having freelance work and a day job means that I'm all about saving time. One of the great things about [#the100dayproject](/100-day-project/) is that it forces you to find, learn, and apply shortcuts so you can just get the thing done. 
