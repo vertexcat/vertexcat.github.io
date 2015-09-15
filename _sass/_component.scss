@@ -27,6 +27,15 @@
 .grid li {
 	display: inline-block;
 	overflow: hidden;
+	width: 720px;
+	height: 300px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.grid-alt li {
+	display: inline-block;
+	overflow: hidden;
 	width: 250px;
 	text-align: left;
 	vertical-align: top;
