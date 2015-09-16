@@ -1,15 +1,14 @@
 ---
-title: Character party!
+title: Characters 2015
 category: illustration
-image: character-party-1.png
+image: characters-2015.png
 published: true
 layout: project-page
-permalink: character-party
+permalink: characters-2015
 ---
-Various characters designed for practice and/or personal projects. Check back later for more models!
+Personal projects, with charcter modeling, some texturing, and rigging for posed final images.
 
-<iframe width="640" height="480" src="https://sketchfab.com/models/63b03ca944cb4bd39fb991d063d3d603/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
-
-<iframe width="640" height="480" src="https://sketchfab.com/models/bb89dccf1db840c5b6fc96ed49265c50/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" onmousewheel=""></iframe>
-
-
+![Corgi](/images/illustration/corgi.png)
+![Cat](/images/illustration/cat.png)
+![Rocketbear](/images/illustration/rocketbear.png)
+![Moon](/images/illustration/moon.png)

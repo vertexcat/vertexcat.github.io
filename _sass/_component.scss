@@ -10,10 +10,10 @@
 }
 
 .grid {
-	margin: 30px auto;
+	margin: 0 auto;
 	padding: 0;
 	list-style: none;
-	min-height: 500px;
+	min-height: 300px;
 }
 
 .js .grid {
@@ -27,8 +27,9 @@
 .grid li {
 	display: inline-block;
 	overflow: hidden;
-	width: 720px;
-	height: 300px;
+	width: 90%;
+	max-width: 800px;
+	max-height: 600px;
 	text-align: left;
 	vertical-align: top;
 }
