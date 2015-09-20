@@ -1,19 +1,18 @@
 ---
-# Front matter for Jekyll
 ---
-@import 'variables';
-@import 'webfonts';
-@import 'normalize';
-@import 'base';
-@import 'nav';
+@import 'variables',
+ 'webfonts',
+ 'normalize',
+ 'base',
+ 'nav',
 
 
-@import 'gallery';
-@import 'component';
-@import 'blog-roll';
-@import 'post';
-@import 'tags';
-@import 'mailchimp';
-@import 'text-pages';
-@import 'footer';
+ 'gallery',
+ 'component',
+ 'blog-roll',
+ 'post',
+ 'tags',
+ 'mailchimp',
+ 'text-pages',
+ 'footer'
 

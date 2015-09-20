@@ -12,7 +12,7 @@ Here is a quick breakdown of the whole process:
 
 ## Modeling
 
-This followed the standard procedure for many models: I added a few cubes and placed them using proportions from reference images. Then came the `mirror` and `subsurf modifiers'. 
+This followed the standard procedure for many models: I added a few cubes and placed them using proportions from reference images. Then came the `mirror` and `subsurf modifiers`. 
 
 To create hard(ish) edges I make additional `loop cuts` most of the time, `edge crease` sometimes, and rarely use the `edge split modifier`. All three methods are briefly covered in [this StackExchange question](http://blender.stackexchange.com/questions/6425/keep-sharp-edges-when-using-subdivision-surface). Edge split seems hard to control - I don't think I used it at all with this truck. Edge crease is good unless you're creasing a mesh that looks smooth under subsurf but actually isn't:
 

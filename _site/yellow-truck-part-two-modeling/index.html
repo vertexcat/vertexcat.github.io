@@ -139,18 +139,17 @@
 
  <p>Here is a quick breakdown of the whole process:</p>
 
-<iframe src="https://player.vimeo.com/video/138696883" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
- 
+<iframe src="https://player.vimeo.com/video/138696883" width="500" height="375" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""></iframe>
 
-<h2>Modeling</h2>
+<h2 id="modeling">Modeling</h2>
 
-<p>This followed the standard procedure for many models: I added a few cubes and placed them using proportions from reference images. Then came the <code>mirror</code> and `subsurf modifiers&#39;. </p>
+<p>This followed the standard procedure for many models: I added a few cubes and placed them using proportions from reference images. Then came the <code>mirror</code> and <code>subsurf modifiers</code>.</p>
 
-<p>To create hard(ish) edges I make additional <code>loop cuts</code> most of the time, <code>edge crease</code> sometimes, and rarely use the <code>edge split modifier</code>. All three methods are briefly covered in <a href="http://blender.stackexchange.com/questions/6425/keep-sharp-edges-when-using-subdivision-surface">this StackExchange question</a>. Edge split seems hard to control - I don&#39;t think I used it at all with this truck. Edge crease is good unless you&#39;re creasing a mesh that looks smooth under subsurf but actually isn&#39;t:</p>
+<p>To create hard(ish) edges I make additional <code>loop cuts</code> most of the time, <code>edge crease</code> sometimes, and rarely use the <code>edge split modifier</code>. All three methods are briefly covered in <a href="http://blender.stackexchange.com/questions/6425/keep-sharp-edges-when-using-subdivision-surface">this StackExchange question</a>. Edge split seems hard to control - I don’t think I used it at all with this truck. Edge crease is good unless you’re creasing a mesh that looks smooth under subsurf but actually isn’t:</p>
 
-<p><img src="/images/blog/blog-edge-types.png" alt="Edge crease vs edge loops in Blender / 3D modeling"></p>
+<p><img src="/images/blog/blog-edge-types.png" alt="Edge crease vs edge loops in Blender / 3D modeling" /></p>
 
-<p>I only recently learned about the <code>skin modifier</code>, and it is a good alternative to solidify when you want to control how thick your modifier mesh is. The seal around the windshield and the arms for the sideview mirrors are some examples. </p>
+<p>I only recently learned about the <code>skin modifier</code>, and it is a good alternative to solidify when you want to control how thick your modifier mesh is. The seal around the windshield and the arms for the sideview mirrors are some examples.</p>
 
 <p>Part three will be about texturing!</p>
 
