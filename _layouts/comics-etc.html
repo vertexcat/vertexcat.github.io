@@ -7,8 +7,8 @@
   {% for post in site.categories.comics-etc %}
     <li>
       <a href="{{ post.url }}"><img srcset="
-        /images/illustration/{{ post.image }} 1x,
-        /images/illustration/{{ post.image | replace:'.png','@2x.png'}} 2x,
+        /images/comics-etc/{{ post.image }} 1x,
+        /images/comics-etc/{{ post.image | replace:'.png','@2x.png'}} 2x,
         "></a></a>
       <h3>{{ post.title }}</h3>
     </li>
