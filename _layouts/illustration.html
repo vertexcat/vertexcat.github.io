@@ -3,7 +3,7 @@
 {% include nav.html %}
 
 <section class="grid-wrap">
-<ul class="gallery grid swipe-down" id="grid">
+<ul class="gallery grid">
   {% for post in site.categories.illustration %}
     <li>
       <a href="{{ post.url }}"><img srcset="
@@ -16,12 +16,7 @@
 
 </ul>
 
-<script src="/js/build/global.min.js"></script>
-<script>
-  new GridScrollFx( document.getElementById( 'grid' ), {
-    viewportFactor : 0.4
-  } );
-</script>
+<script src="{{site.url}}/js/build/global.min.js"></script>
 
 
 {% include scrolltop.html %}

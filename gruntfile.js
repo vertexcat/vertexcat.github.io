@@ -3,17 +3,6 @@ module.exports = function(grunt){
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
 
-      scsslint: {
-        allFiles: [
-          '_sass/*.scss',
-        ],
-        options: {
-          bundleExec: true,
-          config: '.scss-lint.yml',
-          reporterOutput: 'scss-lint-report.xml',
-          colorizeOutput: true
-        },
-      },   
       concat: {   
         build: {
           src: [
@@ -32,30 +21,10 @@ module.exports = function(grunt){
         }
       },
 
-      htmlmin: {
-        dist: {
-          options: {
-            removeComments: true,
-            collapseWhitespace: true
-          },
-        files: [{
-          expand: true,
-          cwd: '_site/',
-          src: ['**/*.{html,php}', '*.{html,php}'],
-          dest: '_site/'
-        }]
-      }
-    },
-
-
       watch: {
         js: {
           files: ['js/*','js/lib/*'],
           tasks: ['buildjs']
-        },
-        html: {
-          files: ['_site/*'],
-          tasks: ['buildhtml']
         },
       },
 
@@ -63,11 +32,8 @@ module.exports = function(grunt){
 
 
  grunt.registerTask('buildjs', ['concat', 'uglify']);
- grunt.registerTask('buildhtml', ['htmlmin']);
-  grunt.registerTask('lint', ['scsslint']);
  grunt.registerTask('default', [
   'buildjs',
-  'buildhtml',
   'watch'
   ]);
 };
