@@ -17,13 +17,14 @@ Elsewhere on the internet, I'm on:
 <i class="fa fa-instagram"></i> [Instagram](http://instagram.com/hicrista) &nbsp; 
 <i class="fa fa-behance"></i> [Behance](//behance.net/cristaalejandre) &nbsp;
 <i class="fa fa-pinterest-p"></i> [Pinterest](//pinterest.com/cristaalejandre) &nbsp;
+
 <i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;
 <i class="fa fa-github-alt"></i> [Github](//github.com/hicrista) &nbsp;
 
     
 #Credits and Resources
 
-This site is hosted through [Github Pages](//pages.github.com) and powered by [Jekyll](//jekyllrb.com). 
+This site: Running on [Jekyll](//jekyllrb.com) through [Github Pages](//pages.github.com). If you're interested in more details, [here's the readme](//github.com/hicrista/hicrista.github.io) for the site repository.
 
 The fonts used are [Populaire](//www.myfonts.com/fonts/pintassilgo/populaire/) by [PintassilgoPrints](//www.pintassilgoprints.com), [Bitstream's](//www.monotype.com/libraries/bitstream) [Bell Gothic](//www.myfonts.com/fonts/bitstream/bell-gothic/), and the truly awesome [Font Awesome](//fortawesome.github.io/Font-Awesome/) by [Dave Gandy](//twitter.com/davegandy).
 
