@@ -6,7 +6,10 @@
 <ul class="gallery grid grid-alt swipe-down" id="grid2">
   {% for post in site.categories.comics-etc %}
     <li>
-      <a href="{{ post.url }}"><img src="/images/comics-etc/{{ post.image }}"></a>
+      <a href="{{ post.url }}"><img srcset="
+        /images/illustration/{{ post.image }} 1x,
+        /images/illustration/{{ post.image | replace:'.png','@2x.png'}} 2x,
+        "></a></a>
       <h3>{{ post.title }}</h3>
     </li>
   {% endfor %}
