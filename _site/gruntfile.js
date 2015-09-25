@@ -66,7 +66,7 @@ module.exports = function(grunt){
         files: [{
           expand: true,
           cwd: '_site',
-          src: ['**/*.{html,php}'],
+          src: ['**/*.{html,php}', '*.{html,php}'],
           dest: '_site'
         }]
       }
@@ -74,7 +74,7 @@ module.exports = function(grunt){
 
       watch: {
         js: {
-          files: ['js/*'],
+          files: ['js/*','js/lib/*'],
           tasks: ['buildjs']
         },
         html: {

@@ -2,6 +2,7 @@ section, article {
   padding: 0 1em;
   margin: 0 10px 0 270px;
   width: auto;
+  max-width: 800px;
   @media screen and (max-width: 799px) {
     margin-left: 0;
   }
@@ -10,7 +11,7 @@ section, article {
   }
   img {
     width: 100%;
-    max-width: 1024px;
+    max-width: 800px;
     display: block;
     margin: 0;
     padding: 0;
