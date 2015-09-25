@@ -16,4 +16,26 @@ This site is hosted through [Github Pages](//pages.github.com) and powered by [J
 
 The fonts used are [Populaire](//www.myfonts.com/fonts/pintassilgo/populaire/) by [PintassilgoPrints](//www.pintassilgoprints.com), [Bitstream's](//www.monotype.com/libraries/bitstream) [Bell Gothic](//www.myfonts.com/fonts/bitstream/bell-gothic/), and the truly awesome [Font Awesome](//fortawesome.github.io/Font-Awesome/) by [Dave Gandy](//twitter.com/davegandy).
 
+Elsewhere on the internet, I'm on: 
+
+<i class="fa fa-twitter"></i> 
+[Twitter](//twitter.com/hicrista)
+
+
+<i class="fa fa-tumblr"></i>
+[Tumblr](//hicrista.tumblr.com/)
+
+<i class="fa fa-instagram"></i>
+[Instagram](http://instagram.com/hicrista)
+
+<i class="fa fa-behance"></i>
+[Behance](//behance.net/cristaalejandre)
+
+<i class="fa fa-github-alt"></i>
+[Github](//github.com/hicrista)
+
+
+
+
+
 

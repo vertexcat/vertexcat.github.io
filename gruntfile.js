@@ -3,30 +3,25 @@ module.exports = function(grunt){
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
 
-      connect: {
-        server: {
-          options: {
-            port: 4000,
-            base: '_site'
-          }
-        }
-      },
-
-      jekyll: {
-        dist: {
-          options: {
-          }
-        }
-      },
-   
+      scsslint: {
+        allFiles: [
+          '_sass/*.scss',
+        ],
+        options: {
+          bundleExec: true,
+          config: '.scss-lint.yml',
+          reporterOutput: 'scss-lint-report.xml',
+          colorizeOutput: true
+        },
+      },   
       concat: {   
         build: {
           src: [
             'js/lib/*.js', // All JS in the libs folder
             'js/custom.js'  // This specific file
-            ],
-          dest: 'js/build/global.js',
-          }
+          ],
+        dest: 'js/build/global.js',
+        }
       },
 
       uglify: {
@@ -52,6 +47,12 @@ module.exports = function(grunt){
       }
     },
 
+    imageoptim: {
+      myTask: {
+        src: ['images/blog', 'images/comics-etc', 'images/illustration', 'images']
+      }
+    },
+
       watch: {
         js: {
           files: ['js/*','js/lib/*'],
@@ -61,23 +62,15 @@ module.exports = function(grunt){
           files: ['_site/*'],
           tasks: ['buildhtml']
         },
-        jekyll: {
-          files: ['_includes/**/*', '_layouts/**/*', '_plugins/**/*', '_posts/**/*', '*.html', '_config.yml', '_site/**/*.{html,php}'],
-          tasks: ['jekyll', 'htmlmin'],
-          options: {
-            spawn: false
-          }
-        },
       },
 
     });
 
 
  grunt.registerTask('buildjs', ['concat', 'uglify']);
- grunt.registerTask('buildhtml', ['jekyll', 'htmlmin']);
-  grunt.registerTask('connect', ['connect']);
+ grunt.registerTask('buildhtml', ['htmlmin']);
+  grunt.registerTask('lint', ['scsslint']);
  grunt.registerTask('default', [
-  'connect',
   'buildjs',
   'buildhtml',
   'watch'
