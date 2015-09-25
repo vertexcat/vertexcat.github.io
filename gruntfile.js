@@ -3,6 +3,21 @@ module.exports = function(grunt){
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
 
+      connect: {
+        server: {
+          options: {
+            port: 4000,
+            base: '_site'
+          }
+        }
+      },
+
+      jekyll: {
+        dist: {
+          options: {
+          }
+        }
+      },
    
       concat: {   
         build: {
@@ -22,41 +37,6 @@ module.exports = function(grunt){
         }
       },
 
-      imagemin: {
-        main: {
-          files: [{
-            expand: true,
-            cwd: 'images/',
-            src: ['*.{png,jpg,gif}'],
-            dest: 'images/'
-          }]
-        },
-        blog: {
-          files: [{
-            expand: true,
-            cwd: 'images/blog/',
-            src: ['*.{png,jpg,gif}'],
-            dest: 'images/blog/'
-          }]
-        },
-        comics: {
-          files: [{
-            expand: true,
-            cwd: 'images/comics-etc/',
-            src: ['*.{png,jpg,gif}'],
-            dest: 'images/comics-etc/'
-          }]
-        },
-        illustration: {
-          files: [{
-            expand: true,
-            cwd: 'images/illustration/',
-            src: ['*.{png,jpg,gif}'],
-            dest: 'images/illustration/'
-          }]
-        },
-      },
-
       htmlmin: {
         dist: {
           options: {
@@ -65,9 +45,9 @@ module.exports = function(grunt){
           },
         files: [{
           expand: true,
-          cwd: '_site',
+          cwd: '_site/',
           src: ['**/*.{html,php}', '*.{html,php}'],
-          dest: '_site'
+          dest: '_site/'
         }]
       }
     },
@@ -80,14 +60,26 @@ module.exports = function(grunt){
         html: {
           files: ['_site/*'],
           tasks: ['buildhtml']
-        }
+        },
+        jekyll: {
+          files: ['_includes/**/*', '_layouts/**/*', '_plugins/**/*', '_posts/**/*', '*.html', '_config.yml', '_site/**/*.{html,php}'],
+          tasks: ['jekyll', 'htmlmin'],
+          options: {
+            spawn: false
+          }
+        },
       },
 
     });
 
- grunt.registerTask('default', ['watch']);
- grunt.registerTask('buildjs', ['concat', 'uglify']);
- grunt.registerTask('buildimg', ['imagemin']);
- grunt.registerTask('buildhtml', ['htmlmin']);
 
+ grunt.registerTask('buildjs', ['concat', 'uglify']);
+ grunt.registerTask('buildhtml', ['jekyll', 'htmlmin']);
+  grunt.registerTask('connect', ['connect']);
+ grunt.registerTask('default', [
+  'connect',
+  'buildjs',
+  'buildhtml',
+  'watch'
+  ]);
 };

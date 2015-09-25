@@ -7,3 +7,4 @@ I'm also using this project to improve my Git skills and learn Markdown.
 ###Notes
 Jekyll handles sass processing
 Default post templates can be set in _config.yml
+https://github.com/imulus/retinajs
