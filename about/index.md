@@ -18,21 +18,13 @@ The fonts used are [Populaire](//www.myfonts.com/fonts/pintassilgo/populaire/) b
 
 Elsewhere on the internet, I'm on: 
 
-<i class="fa fa-twitter"></i> 
-[Twitter](//twitter.com/hicrista)
-
-
-<i class="fa fa-tumblr"></i>
-[Tumblr](//hicrista.tumblr.com/)
-
-<i class="fa fa-instagram"></i>
-[Instagram](http://instagram.com/hicrista)
-
-<i class="fa fa-behance"></i>
-[Behance](//behance.net/cristaalejandre)
-
-<i class="fa fa-github-alt"></i>
-[Github](//github.com/hicrista)
+<i class="fa fa-twitter"></i> [Twitter](//twitter.com/hicrista) &nbsp;
+<i class="fa fa-tumblr"></i> [Tumblr](//hicrista.tumblr.com/) &nbsp;
+<i class="fa fa-instagram"></i> [Instagram](http://instagram.com/hicrista) &nbsp; 
+<i class="fa fa-behance"></i> [Behance](//behance.net/cristaalejandre) &nbsp;
+<i class="fa fa-pinterest-p"></i> [Pinterest](//pinterest.com/cristaalejandre) &nbsp;
+<i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;
+<i class="fa fa-github-alt"></i> [Github](//github.com/hicrista) &nbsp;
 
 
 

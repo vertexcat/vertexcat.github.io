@@ -47,11 +47,6 @@ module.exports = function(grunt){
       }
     },
 
-    imageoptim: {
-      myTask: {
-        src: ['images/blog', 'images/comics-etc', 'images/illustration', 'images']
-      }
-    },
 
       watch: {
         js: {
