@@ -1,7 +1,8 @@
 nav {
-  position: absolute;
+  position: fixed;
   left: 0;
   top: 0;
+  z-index: 100;
   width: 16em;
   padding: 1em; 
   @media screen and (max-width: 799px) {
