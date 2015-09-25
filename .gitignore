@@ -1,2 +1,8 @@
-node_modules
+node_modules/
 npm-debug.log
+.sass-cache/
+js/lib/*
+js/custom.js
+.tmp/
+.DS_Store
+.jekyll-metadata
