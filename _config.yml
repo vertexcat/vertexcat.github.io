@@ -4,6 +4,7 @@ permalink: 	 pretty
 sass:
   style: compressed
 
+
 defaults:
 -
   scope:
