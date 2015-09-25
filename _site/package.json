@@ -1,0 +1,8 @@
+{
+  "name": "crista-alejandre-portfolio",
+  "version": "0.1.0",
+  "author": "Crista Alejandre",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
