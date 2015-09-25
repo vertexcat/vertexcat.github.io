@@ -1,7 +1,6 @@
-{% include head.html %}
-{% include analytics_blog.html %}
-{% include nav.html %}
-<article class="tag-list">
+{% include 1-head.html %}
+{% include 2-nav.html %}
+<article class="tag-list scene_element scene_element--fadein">
 	{% capture tags %}
   {% for tag in site.tags %}
     {{ tag[0] }}
@@ -19,4 +18,6 @@
   </ul>
 {% endfor %}
 </article>
-{% include footer.html %}
+
+{% include 42-analytics_blog.html %}
+{% include 9-footer.html %}

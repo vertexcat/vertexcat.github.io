@@ -1,11 +1,10 @@
-{% include head.html %}
-{% include analytics_main.html %}
-{% include nav.html %}
+{% include 1-head.html %}
+{% include 2-nav.html %}
 
-<section class="grid-wrap">
+<section id="comics-etc" class="grid-wrap scene_element scene_element--fadein">
 <ul class="grid grid-alt">
   {% for post in site.categories.comics-etc %}
-    <li>
+    <li id="{{ post.permalink }}">
       <a href="{{ post.url }}"><img srcset="
         /images/comics-etc/{{ post.image }} 1x,
         /images/comics-etc/{{ post.image | replace:'.png','@2x.png'}} 2x,
@@ -15,9 +14,9 @@
   {% endfor %}
 </ul>
 
-<script src="{{site.url}}/js/build/global.min.js"></script>
 
 
-{% include scrolltop.html %}
 
-{% include footer.html %}
+{% include 3-scrolltop.html %}
+{% include 41-analytics_main.html %}
+{% include 9-footer.html %}
