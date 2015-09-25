@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: Fall site update
 published: true
 tags: [announcement]

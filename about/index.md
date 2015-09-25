@@ -1,5 +1,5 @@
 ---
-layout: static
+layout: 4-static
 title: Crista Alejandre
 ---
 #About

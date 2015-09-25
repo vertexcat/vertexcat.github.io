@@ -2,7 +2,7 @@
 title: Museum Conference Comics
 image: museum-conference-1.jpg
 published: true
-layout: project-page
+layout: 3-project-page
 category: [comics-etc]
 permalink: aam-comics
 ---

@@ -2,7 +2,7 @@
 title: Engagement Handbook
 image: handbook-4.png
 published: true
-layout: project-page
+layout: 3-project-page
 category: [comics-etc]
 permalink: engagement-handbook
 ---

@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: Yellow Truck Modeling
 published: true
 tags: [blender, modeling, 3d, personal, project, process]

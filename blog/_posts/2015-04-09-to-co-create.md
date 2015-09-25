@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: To (Co)Create for 100 Days
 published: true
 tags: [project, personal, 100-day-project]

@@ -2,7 +2,7 @@
 title: Design Thinking Powerpoint
 image: DT-00.png
 published: true
-layout: project-page
+layout: 3-project-page
 category: [comics-etc]
 permalink: design-thinking
 ---

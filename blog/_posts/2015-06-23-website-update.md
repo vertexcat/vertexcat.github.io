@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: Website Update
 published: true
 tags: [web-dev, announcement]

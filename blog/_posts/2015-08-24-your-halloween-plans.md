@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: I just made your Halloween plans for you
 published: true
 tags: [merch, events, seattle]

@@ -3,21 +3,21 @@
 {% include nav.html %}
 
 <section class="grid-wrap">
-<ul class="gallery grid">
-  {% for post in site.categories.illustration %}
+<ul class="grid grid-alt">
+  {% for post in site.categories.comics-etc %}
     <li>
       <a href="{{ post.url }}"><img srcset="
-        /images/illustration/{{ post.image }} 1x,
-        /images/illustration/{{ post.image | replace:'.png','@2x.png'}} 2x,
+        /images/comics-etc/{{ post.image }} 1x,
+        /images/comics-etc/{{ post.image | replace:'.png','@2x.png'}} 2x,
         "></a>
       <h3>{{ post.title }}</h3>
     </li>
   {% endfor %}
-
 </ul>
 
 <script src="{{site.url}}/js/build/global.min.js"></script>
 
 
 {% include scrolltop.html %}
+
 {% include footer.html %}

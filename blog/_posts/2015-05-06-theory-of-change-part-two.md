@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: The Theory of Change (Process)
 permalink: theory-of-change-process
 published: true

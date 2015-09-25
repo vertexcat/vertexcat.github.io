@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: Yellow Truck
 published: true
 tags: [blender, cycles, 3d, personal, project, completed]

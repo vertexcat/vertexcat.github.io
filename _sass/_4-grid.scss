@@ -1,0 +1,93 @@
+.grid-wrap {
+	margin: 1em 0 0 300px;
+	padding: 0;
+	max-width: 1260px;
+	@media screen and (max-width: 799px) {
+    margin: 0;
+  }
+}
+
+.grid {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	min-height: 300px;
+	width: 100%;
+}
+
+.grid li {
+	display: inline-block;
+	overflow: hidden;
+	width: 90%;
+	max-width: 800px;
+	max-height: 600px;
+	text-align: left;
+	vertical-align: top;
+}
+
+.grid-alt li {
+	width: 250px;
+}
+
+
+/* Title box */
+.title-box h2 {
+	display: block;
+	margin: 7px;
+	padding: 20px;
+	background: #0b0b0b;
+	color: #fff;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	font-weight: 300;
+}
+
+.title-box h2 a {
+	display: block;
+	font-weight: 900;
+}
+
+.title-box h2 a:hover {
+	color: #D3EEE2;
+}
+
+/* Anchor and image */
+.grid li > a,
+.grid li img {
+	display: block;
+	outline: none;
+	border: none;
+}
+
+.grid li > a {
+	position: relative;
+	overflow: hidden;
+	margin: 7px;
+}
+
+
+/* Title */
+.grid li h3 {
+	opacity:0;
+	transition: opacity 500ms;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	margin: 0;
+	padding: .25em 1em;
+	width: 91%;
+	background: #0b0b0b;
+	color: #fff;
+	text-align: left;
+	text-transform: uppercase;
+	font-weight: 800;
+	font-size: 1em;
+	-webkit-transition: -webkit-transform 0.2s, color 0.2s;
+	transition: transform 0.2s, color 0.2s;
+}
+
+.scrolltop {
+  width: 95%;
+  margin: 0 auto;
+  text-align: right;
+}

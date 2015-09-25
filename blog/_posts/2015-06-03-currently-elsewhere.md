@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: Currently and Elsewhere
 permalink: currently-elsewhere
 published: true

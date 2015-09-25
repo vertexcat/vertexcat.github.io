@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: Northwest
 published: true
 permalink: northwest-pattern

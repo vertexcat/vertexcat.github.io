@@ -2,7 +2,7 @@
 title: Theory of Change
 image: mah-toc-final.png
 published: true
-layout: project-page
+layout: 3-project-page
 category: [comics-etc]
 permalink: theory-of-change
 ---

@@ -1,0 +1,24 @@
+html, body {
+  font-family: $font-stack;
+  overflow-x: hidden; 
+}
+
+a {
+  color: $primary-color;
+  text-decoration: none;
+  font-weight: bold;
+  nav & {
+    color: #2a2a2a;
+  }
+}
+
+.container {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.colorize {
+  color: $primary-color;
+}
+

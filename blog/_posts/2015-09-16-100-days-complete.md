@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: 100 day project complete
 published: true
 tags: [blender, personal, project, completed, 100-day-project]

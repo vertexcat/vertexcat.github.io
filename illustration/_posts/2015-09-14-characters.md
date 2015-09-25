@@ -3,7 +3,7 @@ title: Characters 2015
 category: [illustration]
 image: characters-2015.png
 published: true
-layout: project-page
+layout: 3-project-page
 permalink: characters-2015
 ---
 Personal projects, with charcter modeling, some texturing, and rigging for posed final images.

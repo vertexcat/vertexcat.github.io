@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: Coming Soon
 published: true
 permalink: coming-soon

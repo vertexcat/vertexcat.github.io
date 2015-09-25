@@ -1,8 +1,0 @@
----
-title: Food series - A Frosty and Fries
-category: illustration
-image: food-7.png
-published: false
-layout: project-page
-permalink: frosty-and-fries
----

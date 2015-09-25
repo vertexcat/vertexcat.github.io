@@ -2,7 +2,7 @@
 title: Posture Comics
 image: posture-1.png
 published: true
-layout: project-page
+layout: 3-project-page
 category: [comics-etc]
 permalink: posture-comics
 ---

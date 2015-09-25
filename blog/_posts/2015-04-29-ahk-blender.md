@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: 6-blog-post
 title: Autohotkey - Blender Tip
 published: true		
 tags: [tips, blender, modeling, 'low-poly']
