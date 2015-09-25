@@ -3,7 +3,7 @@ title: Theory of Change
 image: mah-toc-final.png
 published: true
 layout: project-page
-category: comics-etc
+category: [comics-etc]
 permalink: theory-of-change
 ---
 The Santa Cruz Museum of Art & History's theory of change is a logic model that links the museum's work with its community impact. Working with the museum executive director, I used the original document (an MS Office flowchart, pictured below) to develop the final illustration. 

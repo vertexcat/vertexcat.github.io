@@ -3,7 +3,7 @@ title: Posture Comics
 image: posture-1.png
 published: true
 layout: project-page
-category: comics-etc
+category: [comics-etc]
 permalink: posture-comics
 ---
 A friendly reminder to take a break, move around, and check your posture!

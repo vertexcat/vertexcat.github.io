@@ -3,7 +3,7 @@ title: Design Thinking Powerpoint
 image: DT-00.png
 published: true
 layout: project-page
-category: comics-etc
+category: [comics-etc]
 permalink: design-thinking
 ---
 A selection of slides from a recent presentation I gave on design thinking and its use in problem solving (in this case, buying a great pair of pants). The presentation compares and contrasts the usual logical and analytical approach to problem solving against the user-centered process built upon the principles of design thinking.

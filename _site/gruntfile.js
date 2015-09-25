@@ -57,10 +57,29 @@ module.exports = function(grunt){
         },
       },
 
+      htmlmin: {
+        dist: {
+          options: {
+            removeComments: true,
+            collapseWhitespace: true
+          },
+        files: [{
+          expand: true,
+          cwd: '_site',
+          src: ['**/*.{html,php}'],
+          dest: '_site'
+        }]
+      }
+    },
+
       watch: {
         js: {
-          files: ['js/global.js'],
-          tasks: ['buildjs', 'buildimg']
+          files: ['js/*'],
+          tasks: ['buildjs']
+        },
+        html: {
+          files: ['_site/*'],
+          tasks: ['buildhtml']
         }
       },
 
@@ -69,5 +88,6 @@ module.exports = function(grunt){
  grunt.registerTask('default', ['watch']);
  grunt.registerTask('buildjs', ['concat', 'uglify']);
  grunt.registerTask('buildimg', ['imagemin']);
+ grunt.registerTask('buildhtml', ['htmlmin']);
 
 };

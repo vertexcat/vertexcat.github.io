@@ -1,6 +1,6 @@
 ---
 title: Characters 2015
-category: illustration
+category: [illustration]
 image: characters-2015.png
 published: true
 layout: project-page
