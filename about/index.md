@@ -9,12 +9,6 @@ Hello! I am a freelance illustrator based in Seattle, Washington. Drawing from a
 Check out the [#3D](/tags/#3d) or [#process](/tags/#process) tags on my blog if you're interested in more details about this workflow!  
 
 I also draw comics by hand and digitally. You can see many personal and client projects in the [comics and more](/comics-etc/) section. 
-    
-#This site
-
-This site is hosted through [Github Pages](//pages.github.com) and powered by [Jekyll](//jekyllrb.com). 
-
-The fonts used are [Populaire](//www.myfonts.com/fonts/pintassilgo/populaire/) by [PintassilgoPrints](//www.pintassilgoprints.com), [Bitstream's](//www.monotype.com/libraries/bitstream) [Bell Gothic](//www.myfonts.com/fonts/bitstream/bell-gothic/), and the truly awesome [Font Awesome](//fortawesome.github.io/Font-Awesome/) by [Dave Gandy](//twitter.com/davegandy).
 
 Elsewhere on the internet, I'm on: 
 
@@ -25,6 +19,14 @@ Elsewhere on the internet, I'm on:
 <i class="fa fa-pinterest-p"></i> [Pinterest](//pinterest.com/cristaalejandre) &nbsp;
 <i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;
 <i class="fa fa-github-alt"></i> [Github](//github.com/hicrista) &nbsp;
+
+    
+#Credits and Resources
+
+This site is hosted through [Github Pages](//pages.github.com) and powered by [Jekyll](//jekyllrb.com). 
+
+The fonts used are [Populaire](//www.myfonts.com/fonts/pintassilgo/populaire/) by [PintassilgoPrints](//www.pintassilgoprints.com), [Bitstream's](//www.monotype.com/libraries/bitstream) [Bell Gothic](//www.myfonts.com/fonts/bitstream/bell-gothic/), and the truly awesome [Font Awesome](//fortawesome.github.io/Font-Awesome/) by [Dave Gandy](//twitter.com/davegandy).
+
 
 
 

@@ -15,18 +15,13 @@
   {% endfor %}
 </ul>
 
-<div class="paginate">
-<h3><a href="/"><i class="fa fa-hand-o-left"></i> Illustrations</a><h3>
-</div>
-
-</section>
-
-
-
 <script src="/js/build/global.min.js"></script>
 <script>
-			new GridScrollFx( document.getElementById( 'grid2' ), {
-				viewportFactor : 0.4
-			} );
-		</script>
+      new GridScrollFx( document.getElementById( 'grid2' ), {
+        viewportFactor : 0.4
+      } );
+    </script>
+
+{% include scrolltop.html %}
+
 {% include footer.html %}

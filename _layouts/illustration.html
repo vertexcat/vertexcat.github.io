@@ -2,7 +2,7 @@
 {% include analytics_main.html %}
 {% include nav.html %}
 
-<section class="grid-wrap" id="top">
+<section class="grid-wrap">
 <ul class="gallery grid swipe-down" id="grid">
   {% for post in site.categories.illustration %}
     <li>
@@ -24,13 +24,5 @@
 </script>
 
 
-<div class="scrolltop">
-<h3><a href="#top"><i class="fa fa-caret-square-o-up fa-3x"></i></a><h3>
-</div>
-
-</section>
-
-
-
-
+{% include scrolltop.html %}
 {% include footer.html %}
