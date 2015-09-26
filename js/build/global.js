@@ -873,11 +873,12 @@ $(function(){
 **********************/
 $(document).ready(function() {
     $('#fullpage').fullpage({
-      fitToSection: true,
+      fitToSection: false,
       verticalCentered: true,
       scrollBar: true,
-      continuousVertical: true,
-      fixedElements: 'nav',
+      paddingTop: '6em',
+      paddingBottom: '4.5em',
+      sectionsColor: ['#111', '#111', '#111', '#111', '#111', '#111', '#111']
     });
 });
 /**

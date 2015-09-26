@@ -4,14 +4,40 @@ title: Crista Alejandre
 ---
 #About
 
+
+
 Hello! I am a freelance illustrator based in Seattle, Washington. Drawing from a love of animation and video game art and design, I produce both stylized and semi-realistic imagery by digitally modeling subjects and environments in 3D, painting or photocompositing textures, and processing the final image in Photoshop. 
 
 Check out the [#3D](/tags/#3d) or [#process](/tags/#process) tags on my blog if you're interested in more details about this workflow!  
 
 I also draw comics by hand and digitally. You can see many personal and client projects in the [comics and more](/comics-etc/) section. 
 
-Elsewhere on the internet, I'm on: 
+<img src="/images/illustration/rocketbear.png" style="float: right">
 
+#contact
+<a name="contact"></a>
+Email: <script type="text/javascript">
+            //<![CDATA[
+            <!--
+            var x="function f(x){var i,o=\"\",l=x.length;for(i=l-1;i>=0;i--) {try{o+=x.c" +
+            "harAt(i);}catch(e){}}return o;}f(\")\\\"function f(x,y){var i,o=\\\"\\\\\\\""+
+            "\\\\,l=x.length;for(i=0;i<l;i++){if(i>(111+y))y*=2;y%=127;o+=String.fromCha" +
+            "rCode(x.charCodeAt(i)^(y++));}return o;}f(\\\"\\\\\\\\\\\\013\\\\\\\\037\\\\"+
+            "\\\\022\\\\\\\\007\\\\\\\\036\\\\\\\\021\\\\\\\\033\\\\\\\\002Y\\\\\\\\017\\"+
+            "\\\\\\013\\\\\\\\023\\\\\\\\017\\\\\\\\031\\\\\\\\021\\\\\\\\020(#>b$mtbn4V" +
+            ")algcd~({qyzxXzhroi\\\\\\\\1772AMGIEKBUM\\\\\\\\007IDAq\\\\\\\\014\\\\\\\\0" +
+            "17DXF_Q\\\\\\\\010j\\\\\\\\025d\\\\\\\\033\\\\\\\\004SYQRP\\\\\\\\000\\\\\\" +
+            "\\\\\"\\\\0*71'j)%/!-#*=5\\\\\\\\1771<9iy6f{s`lf\\\"\\\\,111)\\\"(f};)lo,0(" +
+            "rtsbus.o nruter};)i(tArahc.x=+o{)--i;0=>i;1-l=i(rof}}{)e(hctac};l=+l;x=+x{y" +
+            "rt{)53=!)31/l(tAedoCrahc.x(elihw;lo=l,htgnel.x=lo,\\\"\\\"=o,i rav{)x(f noi" +
+            "tcnuf\")"                                                                    ;
+            while(x=eval(x));
+            //-->
+            //]]>
+          </script>
+
+
+I'm also on:&nbsp; 
 <i class="fa fa-twitter"></i> [Twitter](//twitter.com/hicrista) &nbsp;
 <i class="fa fa-tumblr"></i> [Tumblr](//hicrista.tumblr.com/) &nbsp;
 <i class="fa fa-instagram"></i> [Instagram](http://instagram.com/hicrista) &nbsp; 
