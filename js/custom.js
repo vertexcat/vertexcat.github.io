@@ -25,7 +25,7 @@ $(function(){
     prefetch: true,
     cacheLength: 3,
     onStart: {
-      duration: 80, // Duration of our animation
+      duration: 20000, // Duration of our animation
       render: function ($container) {
         // Add your CSS animation reversing class
         $container.addClass('is-exiting');
@@ -35,7 +35,7 @@ $(function(){
       }
     },
     onReady: {
-      duration: 10,
+      duration: 20000,
       render: function ($container, $newContent) {
         // Remove your CSS animation reversing class
         $container.removeClass('is-exiting');
@@ -48,3 +48,65 @@ $(function(){
   },
   smoothState = $('#main').smoothState(options).data('smoothState');
 });
+/**********************
+    fullpage.js
+**********************/
+$(document).ready(function() {
+    $('#fullpage').fullpage({
+      fitToSection: true,
+      verticalCentered: true,
+      scrollBar: true,
+      continuousVertical: true,
+      fixedElements: 'nav',
+    });
+});
+/**
+ * main.js
+ * http://www.codrops.com
+ *
+ * Licensed under the MIT license.
+ * http://www.opensource.org/licenses/mit-license.php
+ * 
+ * Copyright 2014, Codrops
+ * http://www.codrops.com
+ */
+(function() {
+
+  var bodyEl = document.body,
+    content = document.querySelector( '.content-wrap' ),
+    openbtn = document.getElementById( 'open-button' ),
+    closebtn = document.getElementById( 'close-button' ),
+    isOpen = false;
+
+  function init() {
+    initEvents();
+  }
+
+  function initEvents() {
+    openbtn.addEventListener( 'click', toggleMenu );
+    if( closebtn ) {
+      closebtn.addEventListener( 'click', toggleMenu );
+    }
+
+    // close the menu element if the target itÂ´s not the menu element or one of its descendants..
+    content.addEventListener( 'click', function(ev) {
+      var target = ev.target;
+      if( isOpen && target !== openbtn ) {
+        toggleMenu();
+      }
+    } );
+  }
+
+  function toggleMenu() {
+    if( isOpen ) {
+      classie.remove( bodyEl, 'show-menu' );
+    }
+    else {
+      classie.add( bodyEl, 'show-menu' );
+    }
+    isOpen = !isOpen;
+  }
+
+  init();
+
+})();

@@ -2,9 +2,9 @@
 {% include 2-nav.html %}
 
 <section id="illustration" class="grid-wrap scene_element scene_element--fadein">
-<ul class="grid">
+<ul id="fullpage" class="grid">
   {% for post in site.categories.illustration %}
-    <li id="{{post.permalink}}">
+    <li id="{{post.permalink}}" class="section fp-auto-height">
       <a href="{{ post.url }}"><img srcset="
         /images/illustration/{{ post.image }} 1x,
         /images/illustration/{{ post.image | replace:'.png','@2x.png'}} 2x,

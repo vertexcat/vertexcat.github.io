@@ -1,18 +1,12 @@
 section, article {
   padding: 0 1em;
-  margin: 0 10px 0 270px;
-  width: auto;
-  max-width: 800px;
-  @media screen and (max-width: 799px) {
-    margin-left: 0;
-  }
+  margin: 10em 0 0 0;
+  width: 100%;
   h1 {
     text-align: left;
   }
   img {
     width: 100%;
-    max-width: 800px;
-    display: block;
     margin: 0;
     padding: 0;
   }

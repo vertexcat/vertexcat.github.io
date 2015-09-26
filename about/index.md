@@ -18,15 +18,17 @@ Elsewhere on the internet, I'm on:
 <i class="fa fa-behance"></i> [Behance](//behance.net/cristaalejandre) &nbsp;
 <i class="fa fa-pinterest-p"></i> [Pinterest](//pinterest.com/cristaalejandre) &nbsp;
 
+<i class="fa fa-star"></i> [Blendswap](//blendswap.com/user/hicrista) &nbsp;
+<i class="fa fa-star"></i> [Sketchfab](//sketchfab.com/hicrista) &nbsp;
 <i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;
 <i class="fa fa-github-alt"></i> [Github](//github.com/hicrista) &nbsp;
-
     
 #Credits and Resources
 
-This site: Running on [Jekyll](//jekyllrb.com) through [Github Pages](//pages.github.com). If you're interested in more details, [here's the readme](//github.com/hicrista/hicrista.github.io) for the site repository.
+For anyone who wants to get their feet wet with 3D sculpting, texturing, and animation, [Blender](//blender.org) is an incredible free and open source program that lets you give all of these areas a try. It has come a long way in terms of features and usability, and while it is by no means an industry standard it is a great way to learn and practice some of the core concepts that are shared between Blender and the bigger names like Maya and Max. The vast majority of the 3D images on this site were at least modeled in Blender, if not created there from start to finish. 
 
-The fonts used are [Populaire](//www.myfonts.com/fonts/pintassilgo/populaire/) by [PintassilgoPrints](//www.pintassilgoprints.com), [Bitstream's](//www.monotype.com/libraries/bitstream) [Bell Gothic](//www.myfonts.com/fonts/bitstream/bell-gothic/), and the truly awesome [Font Awesome](//fortawesome.github.io/Font-Awesome/) by [Dave Gandy](//twitter.com/davegandy).
+This site runs on [Jekyll](//jekyllrb.com) through [Github Pages](//pages.github.com). There's a bit of a learning curve, but it's a great free platform for non-database client-side website building. If you're interested in more details, [here's the readme](//github.com/hicrista/hicrista.github.io) for the site repository.
+
 
 
 

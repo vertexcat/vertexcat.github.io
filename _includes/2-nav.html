@@ -4,30 +4,34 @@
       <a href="/index.html">
         <img class="wordmark" src="/images/wordmark_2015.png">
       </a>
-      <ul class="main_nav">
-        <li><a href="/">Home</a></li>
-        <li><a href="/about">About</a></li>
-        <li>
-          <a href="#" onclick="toggle_visibility('contact'); ga('send', 'Contact Interest', 'Click Contact', 'Contact Link in Nav');">Contact</a>
 
-        </li>
-        <li><a href="/blog">Blog</a></li>
+      <button class="menu-button lines-button x2" id="open-button" type="button" role="button" aria-label="Toggle Navigation">
+        <span class="lines"></span></button>
+
+
+      <div class="menu-wrap">
+        <ul class="main_nav menu">
+          <div class="icon-list">
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li>
+              <a href="#" onclick="toggle_visibility('contact'); ga('send', 'Contact Interest', 'Click Contact', 'Contact Link in Nav');">Contact</a>
+
+            </li>
+            <li><a href="/blog">Blog</a></li>
+          </div>
+        </ul>
+
+      <ul class="main_nav">
+        
+        <li class="icon-list"><a href="/"><span class="colorize"><i class="fa fa-eye"></i> Illustrations</span></a></li>
+        <li class="icon-list"><a href="/comics-etc"><span class="colorize"><i class="fa fa-eye"></i> Comics and More</span></a></li>
+  
       </ul>
-      <script type="text/javascript">
-        <!--
-        function toggle_visibility(id) {
-           var e = document.getElementById(id);
-           if(e.style.display == 'block')
-              e.style.display = 'none';
-           else
-              e.style.display = 'block';
-            }
-          //-->
-      </script>
-      <div id="contact" class="scene_element scene_element--fadein">
-        <h1>Contact</h1>
-        <p style="padding-left: .25em">
-          <i class="fa fa-lg fa-envelope" style="padding-right:.5em"></i>
+
+      <div id="contact">
+
+          <i class="fa fa-lg fa-envelope"></i>
           <script type="text/javascript">
             //<![CDATA[
             <!--
@@ -47,7 +51,7 @@
             //-->
             //]]>
           </script>
-        </p>
+
         <ul class="social">
           <li class="fa-stack">
               <a href="http://twitter.com/hicrista">
@@ -67,18 +71,12 @@
             </a>
           </li>
           <li class="fa-stack">
-            <a href="http://behance.net/cristaalejandre">
-              <i class="fa fa-square fa-stack-2x"></i>
-              <i class="fa fa-stack-1x fa-behance fa-inverse"></i>
+            <a href="//pinterest.com/cristaalejandre/">
+              <i class="fa fa-pinterest fa-2x"></i>
             </a>
-          </li>
+          </li>        
         </ul>
       </div>
 
-      <ul class="main_nav">
-        
-        <li><a href="/"><span class="colorize"><i class="fa fa-eye"></i> Illustrations</span></a></li>
-        <li><a href="/comics-etc"><span class="colorize"><i class="fa fa-eye"></i> Comics and More</span></a></li>
-  
-      </ul>
-    </nav>
+    </div>
+</nav>

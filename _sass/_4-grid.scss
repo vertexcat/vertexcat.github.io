@@ -1,10 +1,7 @@
 .grid-wrap {
-	margin: 1em 0 0 300px;
 	padding: 0;
-	max-width: 1260px;
-	@media screen and (max-width: 799px) {
     margin: 0;
-  }
+
 }
 
 .grid {
@@ -18,9 +15,7 @@
 .grid li {
 	display: inline-block;
 	overflow: hidden;
-	width: 90%;
-	max-width: 800px;
-	max-height: 600px;
+	width: 100%;
 	text-align: left;
 	vertical-align: top;
 }
