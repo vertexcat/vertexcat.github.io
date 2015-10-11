@@ -5,27 +5,37 @@
 }
 
 #comics-etc {
-	margin-top: 10em;
+	margin: 10em 0;
 }
 
 .grid {
 	margin: 0;
 	padding: 0;
 	list-style: none;
-	min-height: 300px;
 	width: 100%;
+
+}
+
+.grid-alt {
+		-webkit-columns: 3;
+   -moz-columns: 3;
+        columns: 3;
+          -webkit-column-gap: 0;
+     -moz-column-gap: 0;
+          column-gap: 0;
+    @media (max-width: 480px) {
+    	-webkit-columns: 1;
+   -moz-columns: 1;
+        columns: 1;
+    }
 }
 
 .grid li {
 	display: inline-block;
-	overflow: hidden;
 	width: 100%;
+	height: auto;
 	text-align: left;
 	vertical-align: top;
-}
-
-.grid-alt li {
-	width: 250px;
 }
 
 

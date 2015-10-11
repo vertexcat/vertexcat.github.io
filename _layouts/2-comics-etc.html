@@ -4,7 +4,7 @@
 <section id="comics-etc" class="grid-wrap scene_element scene_element--fadein">
 <ul class="grid grid-alt">
   {% for post in site.categories.comics-etc %}
-    <li id="{{ post.permalink }}">
+    <li id="{{ post.permalink }}" class="grid-item">
       <a href="{{ post.url }}"><img srcset="
         /images/comics-etc/{{ post.image }} 1x,
         /images/comics-etc/{{ post.image | replace:'.png','@2x.png'}} 2x,

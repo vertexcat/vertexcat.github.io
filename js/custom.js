@@ -48,6 +48,7 @@ $(function(){
   },
   smoothState = $('#main').smoothState(options).data('smoothState');
 });
+
 /**********************
     fullpage.js
 **********************/
@@ -58,7 +59,7 @@ $(document).ready(function() {
       scrollBar: true,
       paddingTop: '6em',
       paddingBottom: '4.5em',
-      sectionsColor: ['#111', '#111', '#111', '#111', '#111', '#111', '#111']
+      sectionsColor: ['#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff']
     });
 });
 /**
@@ -111,3 +112,4 @@ $(document).ready(function() {
   init();
 
 })();
+

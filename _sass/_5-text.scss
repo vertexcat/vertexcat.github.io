@@ -1,7 +1,7 @@
 section, article {
-  padding: 0 1em;
-  margin: 10em auto 5em auto;
-  width: 98%;
+  padding: 0 1em 5em 0;
+  margin: 10em 1em 5em 1em;
+  width: 95%;
   max-width: 1280px;
   h1 {
     text-align: left;
@@ -10,6 +10,9 @@ section, article {
     width: 100%;
     margin: 0;
     padding: 0;
+  }
+  img.emoji {
+    width: auto;
   }
   ul.blog-roll li ul li {
   padding: 0 0 .5em 0;

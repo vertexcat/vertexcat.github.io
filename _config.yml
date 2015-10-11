@@ -3,6 +3,8 @@ permalink: 	 pretty
 sass:
   style: compressed
 
+gems:
+  - jemoji
 
 defaults:
 -

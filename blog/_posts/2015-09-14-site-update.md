@@ -5,6 +5,9 @@ published: true
 tags: [announcement]
 permalink: 2015-fall-site-update
 ---
+**Update (10 October 2015): Dish issue 1 is now available in print! :tada: :tada: :tada: 
+[Snag a copy from Etsy here](https://www.etsy.com/listing/251527824/dish-a-food-appreciation-zine-issue-1).** A slightly less important update: I can use emoji on this site! Thanks Github :+1:
+
 Between wrapping up [#the100dayproject](/tags/#100-day-project) (ONE MORE) and getting ready for [Short Run](//shortrun.org) on October 31, a lot has been happening on this site. Here's the rundown: 
 
 **Issue one of [Dish](/dish/) is complete**. How that came to be is a whole retexturing story I'll get into in another post, but for now you can get yourself a PDF copy for $1 on Gumroad ([details here](https://gumroad.com/l/yFAdg)). Print copies will be available at my table at Short Run and then online after that. 
