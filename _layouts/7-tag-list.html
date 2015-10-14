@@ -10,7 +10,7 @@
 
 {% for tag in sortedtags %}
   <i class="fa fa-tags"></i> 
-  <a class="tag-link">{{ tag }}</a>
+  <a name="{{ tag }}" class="tag-link">{{ tag }}</a>
   <ul class="tags">
   {% for post in site.tags[tag] %}
     <li><a href="{{ post.url }}">{{ post.title }}</a> on {{ post.date | date: "%d %B %Y" }}</li>
@@ -21,3 +21,4 @@
 
 {% include 42-analytics_blog.html %}
 {% include 9-footer.html %}
+

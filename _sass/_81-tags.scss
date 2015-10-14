@@ -1,6 +1,19 @@
-article.tag-list {
-	margin-top: 1em;
+a.tag-link {
+	text-transform: uppercase;
+	color: #000;
 }
+
+article.tag-list {
+	
+	a.tag-link:before {
+	 	display: inline-block; 
+    content: " "; 
+    margin-top: -12em; 
+   height: 12em; 
+   visibility: hidden; 
+  }
+}
+
 ul.tags {
  	list-style-type:none;
 	margin: 0 0 3em 0;
@@ -8,12 +21,8 @@ ul.tags {
 	li {
 		padding: .4em;
 	}
+}
 
-}
-a.tag-link {
-	text-transform: uppercase;
-	color: #000;
-}
 .tag-divider:last-of-type {
 	display: none;
 }
