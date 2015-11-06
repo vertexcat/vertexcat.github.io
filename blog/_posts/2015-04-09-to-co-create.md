@@ -5,6 +5,8 @@ published: true
 tags: [project, personal, 100-day-project]
 permalink: 100-day-project
 ---
+**Update:** This project is complete! Check out the results on Instagram at [#100daysofmft](https://instagram.com/explore/tags/100daysofmft/). 
+
 [Elle Luna](http://elleluna.com/) and [The Great Discontent](https://thegreatdiscontent.com/) have launched [The 100 Day Project](https://thegreatdiscontent.com/100days): you commit to doing some kind of action and posting the results on Instagram every day for 100 consecutive days.  
  
 ![100 Day Project](/images/blog/luna-100dayproject-pledge2.jpg) 

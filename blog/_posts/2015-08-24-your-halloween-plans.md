@@ -2,7 +2,7 @@
 layout: 6-blog-post
 title: I just made your Halloween plans for you
 published: true
-tags: [merch, events, seattle]
+tags: [merch, events, seattle, short-run]
 permalink: short-run-announcement
 ---
 Do you live in Seattle? Or, have you always wanted to visit Seattle but didn't know when the best time would be? Mark your calendar for October 31 because [Short Run](http://shortrun.org) is happening at Seattle Center! You can get your Space Needle/Chihuly/EMP on *and* check out zines, comix, books, prints, posters, art, and more from artists and writers near and far for free at Fisher Pavilion. 

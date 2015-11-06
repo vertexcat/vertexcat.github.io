@@ -10,12 +10,12 @@ Hello! I am a freelance illustrator based in Seattle, Washington. Drawing from a
 
 Check out the [#3D](/tags/#3d) or [#process](/tags/#process) tags on my blog if you're interested in more details about this workflow!  
 
-I also draw comics by hand and digitally. You can see many personal and client projects in the [comics and more](/comics-etc/) section. 
+I also draw comics by hand and digitally. You can see many personal and client projects [here](/comics-etc/). 
 
-<img src="/images/illustration/rocketbear.png" style="float: right">
+<a name="contact"><img src="/images/illustration/rocketbear.png" style="float: right"></a>
 
 #contact
-<a name="contact"></a>
+
 Email: <script type="text/javascript">
             //<![CDATA[
             <!--
