@@ -12,7 +12,7 @@ Check out the [#3D](/tags/#3d) or [#process](/tags/#process) tags on my blog if 
 
 I also draw comics by hand and digitally. You can see many personal and client projects [here](/comics-etc/). 
 
-<a name="contact"><img src="/images/illustration/rocketbear.png" style="float: right"></a>
+<a id="contact"><img src="/images/illustration/rocketbear.png" style="float: right"></a>
 
 #contact
 

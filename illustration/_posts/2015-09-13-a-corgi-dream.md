@@ -13,3 +13,5 @@ permalink: a-corgi-dream
 A short story about a short puppy who loves fried chicken.
 
 18 pages, B&W, 4 x 6 in.
+
+Read online for free on Issuu [here](http://issuu.com/hicrista/docs/a_corgi_dream) or buy yourself a printed copy through Etsy [here](https://www.etsy.com/listing/250865774/a-corgi-dream-minicomic). 
