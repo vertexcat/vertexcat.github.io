@@ -1,0 +1,49 @@
+h1 {
+  font-weight: 600;
+  font-size: 20px;
+  padding: 5px 5px 5px 8px;
+  text-transform: uppercase;
+  width: 98%;
+  background: #000;
+  color: #fff;
+  line-height: 21px;
+}
+  
+p {
+  clear: both;
+  line-height: 25px;
+  margin-bottom:2em;
+}
+
+section.text, 
+section.project, 
+section.blog,
+section.post {
+  padding: 0 5em 0 1em;
+  margin: 10em auto;
+  width: 96%;
+  max-width: 800px;
+  h1 {
+    text-align: left;
+  }
+  img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  img.emoji {
+    width: auto;
+  }
+
+  .slides {
+    width: 98%;
+  }
+}
+
+section.text img {
+  width: 250px;  
+  margin: 0;
+  padding: 0;
+  float: left;
+}
+

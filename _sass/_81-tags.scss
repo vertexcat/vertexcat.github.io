@@ -1,22 +1,25 @@
-a.tag-link {
-	text-transform: uppercase;
-	color: #000;
-}
+  a.tag-link {
+    text-transform: uppercase;
+    color: #000;
+  }
 
-article.tag-list {
-	
+section.tag-list {
+  margin-left: 1em;
+  padding-bottom: 10em;
+
 	a.tag-link:before {
 	 	display: inline-block; 
     content: " "; 
     margin-top: -12em; 
-   height: 12em; 
-   visibility: hidden; 
+    height: 12em; 
+    visibility: hidden; 
   }
 }
 
 ul.tags {
  	list-style-type:none;
-	margin: 0 0 3em 0;
+  text-transform: uppercase;
+	margin: 0 0 3em 1em;
 	padding: 0;
 	li {
 		padding: .4em;

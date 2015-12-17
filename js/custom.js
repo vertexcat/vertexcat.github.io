@@ -1,21 +1,34 @@
 /**********************
+    Masonry
+**********************/
+
+$(document).ready(function() {
+  $('.grid').masonry({
+   columnWidth: 320,
+   itemSelector: '.item'
+  }).imagesLoaded(function() {
+   $('.grid').masonry('reload');
+  });
+});
+
+/**********************
     Scroll Button
 **********************/
-  $(function() {
-    $('a[href*=#]:not([href=#])').click(function() {
-      if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+$(function() {
+  $('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
 
-        var target = $(this.hash);
-        target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
-        if (target.length) {
-          $('html,body').animate({
-            scrollTop: target.offset().top
-          }, 300);
-          return false;
-        }
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top
+        }, 300);
+        return false;
       }
-    });
+    }
   });
+});
 /**********************
     smoothState
 **********************/
@@ -50,53 +63,51 @@ $(function(){
 });
 
 /**********************
-    fullpage.js
+    slick.js
 **********************/
-$(document).ready(function() {
-    $('#fullpage').fullpage({
-      fitToSection: false,
-      verticalCentered: true,
-      scrollBar: true,
-      paddingTop: '6em',
-      paddingBottom: '4.5em',
-      sectionsColor: ['#fff', '#fff', '#fff', '#fff', '#fff', '#fff', '#fff']
-    });
-});
-/**
- * main.js
- * http://www.codrops.com
- *
- * Licensed under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
- * 
- * Copyright 2014, Codrops
- * http://www.codrops.com
- */
-(function() {
 
+$(document).ready(function(){
+  $('.slides').slick({
+    dots: true,
+    arrows: false,
+    adaptiveHeight: true,
+    autoplay: true,
+    autoplaySpeed: 3000,
+  });
+});
+
+/**********************
+    Nav reveal
+
+     * http://www.codrops.com
+     *
+     * Licensed under the MIT license.
+     * http://www.opensource.org/licenses/mit-license.php
+     * 
+     * Copyright 2014, Codrops
+     * http://www.codrops.com
+**********************/
+(function() {
   var bodyEl = document.body,
     content = document.querySelector( '.content-wrap' ),
     openbtn = document.getElementById( 'open-button' ),
     closebtn = document.getElementById( 'close-button' ),
     isOpen = false;
-
   function init() {
     initEvents();
   }
-
   function initEvents() {
     openbtn.addEventListener( 'click', toggleMenu );
     if( closebtn ) {
       closebtn.addEventListener( 'click', toggleMenu );
     }
-
     // close the menu element if the target itÂ´s not the menu element or one of its descendants..
     content.addEventListener( 'click', function(ev) {
       var target = ev.target;
       if( isOpen && target !== openbtn ) {
         toggleMenu();
       }
-    } );
+    });
   }
 
   function toggleMenu() {
