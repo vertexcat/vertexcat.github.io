@@ -2,7 +2,7 @@
     Masonry
 **********************/
 
-$(document).ready(function() {
+$(window).onload(function() {
   $('.grid').masonry({
    columnWidth: 320,
    itemSelector: '.item'
@@ -66,7 +66,7 @@ $(function(){
     slick.js
 **********************/
 
-$(document).ready(function(){
+$(function(){
   $('.slides').slick({
     dots: true,
     arrows: false,
