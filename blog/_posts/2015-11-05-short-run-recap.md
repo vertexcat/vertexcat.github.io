@@ -2,7 +2,7 @@
 layout: 6-blog-post
 title: Short Run 2015 Recap
 published: true
-tags: [seattle, events, merch, short-run]
+tags: [seattle, events, merch, short-run, lessons-learned]
 permalink: short-run-2015
 ---
 If I haven't mentioned it here before, [Short Run](http://www.shortrun.org/) was my *first tabling experience ever*. And it was great! The thought of sitting in a giant convention hall selling things to strangers is pretty intimidating, especially for my fellow introverts and anxiety-prone folks, but there was so much good going on that you don't even have room for the negatives.  
