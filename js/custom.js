@@ -2,12 +2,18 @@
     Masonry
 **********************/
 
-$(window).onload(function() {
-  $('.grid').masonry({
-   columnWidth: 320,
-   itemSelector: '.item'
-  }).imagesLoaded(function() {
-   $('.grid').masonry('reload');
+$(function() {
+
+  var $item = $('.item');
+  var $container = $('.grid');
+  $item.hide();
+
+  $container.imagesLoaded( function() {
+    $item.fadeIn(800);
+    $container.masonry({
+      columnWidth: 320,
+      itemSelector: '.item',
+    });
   });
 });
 
