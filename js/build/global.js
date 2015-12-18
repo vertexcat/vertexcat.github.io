@@ -822,12 +822,18 @@ if ( typeof define === 'function' && define.amd ) {
     Masonry
 **********************/
 
-$(document).ready(function() {
-  $('.grid').masonry({
-   columnWidth: 320,
-   itemSelector: '.item'
-  }).imagesLoaded(function() {
-   $('.grid').masonry('reload');
+$(function() {
+
+  var $item = $('.item');
+  var $container = $('.grid');
+  $item.hide();
+
+  $container.imagesLoaded( function() {
+    $container.masonry({
+      columnWidth: 320,
+      itemSelector: '.item',
+    });
+    $item.fadeIn(800);
   });
 });
 
@@ -886,7 +892,7 @@ $(function(){
     slick.js
 **********************/
 
-$(document).ready(function(){
+$(function(){
   $('.slides').slick({
     dots: true,
     arrows: false,
