@@ -2,7 +2,7 @@
 layout: 6-blog-post
 title: Buy some things!
 published: true
-tags: [announcement, merch, shop]
+tags: [announcement, merch, shop, zines]
 permalink: etsy-shop-open
 ---
 Somehow I finished everything I had to finish for Short Run a couple of weeks ahead of schedule, and while this does not give me a free pass out of Anxietyville come October 31 I did get a chance to open an Etsy shop ([link](//etsy.com/shop/cristaalejandre))! I've already posted about [Dish](/dish/) being complete, but everything is now physically in my possession and ready to rock. 
