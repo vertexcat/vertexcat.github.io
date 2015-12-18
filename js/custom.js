@@ -9,11 +9,11 @@ $(function() {
   $item.hide();
 
   $container.imagesLoaded( function() {
-    $item.fadeIn(800);
     $container.masonry({
       columnWidth: 320,
       itemSelector: '.item',
     });
+    $item.fadeIn(800);
   });
 });
 
