@@ -1,5 +1,6 @@
 ---
 layout: 1-3D
-title: Crista Alejandre | Illustration and Comics
+title: 3D Illustration Work
+description: Digital illustrations, zines, and comics created via 3D graphics and animation software.
 ---
 	

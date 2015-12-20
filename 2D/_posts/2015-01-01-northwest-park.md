@@ -5,4 +5,5 @@ published: true
 layout: 3-project-page
 category: [two]
 permalink: northwest-park-pattern
+description: Fabric design inspired by Capitol Hill in Seattle. For sale on Spoonflower. Client - personal work.
 ---

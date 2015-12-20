@@ -9,5 +9,6 @@ slides:
 - mah-toc-final.png
 - mah-toc-ppt.png
 - mah-toc-sketches.png
+description: Theory of Change illustration. Client - Santa Cruz Museum of Art & History.
 ---
 The Santa Cruz Museum of Art & History's theory of change is a logic model that links the museum's work with its community impact. Working with the museum executive director, I used the original document (an MS Office flowchart) to develop the final illustration. 

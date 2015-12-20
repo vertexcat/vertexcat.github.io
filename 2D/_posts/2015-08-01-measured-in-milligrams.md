@@ -11,5 +11,6 @@ slides:
 - mmg-3.png
 - mmg-4.png 
 - mmg-5.png
+description: Mini-comic on coping with depression. Client - personal work.
 ---
 A minicomic on medications, illness, coping, and identity. Printed and staple-bound, approximately 7 x 5 in. 

@@ -1,5 +1,8 @@
 markdown: kramdown
 permalink: 	 pretty
+paginate: 3
+paginate_path: "/blog/:num"
+
 sass:
   style: compressed
 

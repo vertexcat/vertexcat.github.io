@@ -9,6 +9,7 @@ slides:
 - a-corgi-dream.png
 - a-corgi-dream-page.png
 - a-corgi-dream-page-2.png
+description: Self-published minicomic about a corgi who dreams a little too big. Debuted at Short Run 2015 in Seattle.
 ---
 A short story about a short puppy who loves fried chicken.
 

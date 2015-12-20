@@ -1,11 +1,11 @@
-{% include 1-head.html %}
-
-{% include 2-nav.html %}
-<section class="blog scene_element scene_element--fadein">
-
+---
+layout: 4-static
+title: Blog
+---
 <ul class="blog-roll">
-  {% for post in site.categories.blog %}
-    <li>
+  {% for post in paginator.posts %}
+   {% if post.categories contains 'blog' %}
+    <li class="blog-post">
       <a href="{{ post.url }}">
       	<h1>{{ post.title }}</h1>
       </a>
@@ -26,8 +26,24 @@
            {% endfor %}
       </span>
     </li>
+    {% endif %}
   {% endfor %}
 </ul>
+
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous"><i class="fa fa-arrow-left"></i></a>
+  {% else %}
+    <span class="previous"><i class="fa fa-arrow-left"></i></span>
+  {% endif %}
+ 
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next"><i class="fa fa-arrow-right"></i></a>
+  {% else %}
+    <span class="next "><i class="fa fa-arrow-right"></i></span>
+  {% endif %}
+</div>
 </section>
 
 {% include 42-analytics_blog.html %}

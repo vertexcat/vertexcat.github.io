@@ -1,10 +1,8 @@
 ---
 layout: 4-static
-title: Crista Alejandre
+title: About and Contact
 ---
 #About
-
-
 
 Hello! I am a freelance illustrator based in Seattle, Washington. Drawing from a love of animation and video game art and design, I produce both stylized and semi-realistic imagery by digitally modeling subjects and environments in 3D, painting or photocompositing textures, and processing the final image in Photoshop. 
 
@@ -12,7 +10,7 @@ Check out the [#3D](/tags/#3d) or [#process](/tags/#process) tags on my blog if 
 
 I also draw comics and illustrations more traditionally - digitally or by hand in 2D. You can see many personal and client projects [here](/2D/). 
 
-<a name="contact"><img src="/images/rocketbear.png" style="float: right"></a>
+<img src="/images/rocketbear.png" class="small">
 
 #contact
 
