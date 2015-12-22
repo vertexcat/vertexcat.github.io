@@ -45,7 +45,7 @@ I'm also on:&nbsp;
 <i class="fa fa-star"></i> [Blendswap](//blendswap.com/user/hicrista) &nbsp;
 <i class="fa fa-star"></i> [Sketchfab](//sketchfab.com/hicrista) &nbsp;
 <i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;
-<i class="fa fa-github-alt"></i> [Github](//github.com/hicrista) &nbsp;
+<i class="fa fa-github-alt"></i> [Github](//github.com/troutcat) &nbsp;
     
 #Credits and Resources
 
