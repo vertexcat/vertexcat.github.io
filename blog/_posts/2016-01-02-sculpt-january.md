@@ -7,7 +7,7 @@ permalink: sculpt-january-begins
 ---
 ![Sculpt January entry 1](/images/blog/mushroom-collage.png)
 
-![Sculpt January entry 2](/images/blog/tentacle-collage.png)
+![Sculpt January entry 2](/images/blog/tentacle-collage-1.png)
 
 One thing I learned in 2015 is that practice does make you a lot better at a thing you're not good at--<small>a lesson I somehow missed during 4 years of being a music performance major, but that's a different story</small>. So I was really excited to learn about Sculpt January from [Blendernation](http://www.blendernation.com/2015/12/19/sculpt-january-2016/)!
 
