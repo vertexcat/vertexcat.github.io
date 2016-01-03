@@ -2,6 +2,7 @@
 title: Some Things My Cats Have Tried to Eat
 category: [three]
 image: some-things-my-cats.png
+thumb: some-things-my-cats-640.png
 published: true
 layout: 3-project-page-slideshow
 permalink: some-things-my-cats-zine

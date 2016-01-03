@@ -2,6 +2,7 @@
 title: Virginia City wedding invitation
 category: [three]
 image: virginia-city.jpg
+thumb: virginia-city-640.png
 published: true
 layout: 3-project-page
 permalink: virginia-city-wedding

@@ -2,6 +2,7 @@
 title: Dish Issue 2 Promo
 category: [three]
 image: dish-promo.png
+thumb: dish-promo-640.png
 published: true
 layout: 3-project-page
 permalink: dish-issue-2-promo

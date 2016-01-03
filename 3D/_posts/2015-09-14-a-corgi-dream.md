@@ -2,6 +2,7 @@
 title: A Corgi Dream
 category: [three]
 image: a-corgi-dream.png
+thumb: a-corgi-dream-640.png
 published: true
 layout: 3-project-page-slideshow
 permalink: a-corgi-dream
