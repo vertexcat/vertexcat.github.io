@@ -12,8 +12,8 @@ slides:
 - some-things-my-cats-3.png
 description: Self-published zine cataloging all of the stuff my cats have put in their mouths.
 ---
-My cats think everything is food. Here is a zine documenting that.
+My cats think everything is food. I started keeping a list of items destroyed and dollar values and it's gotten pretty long, so I decided to illustrate it! 
 
-Color, 3.5 x 5 in.
+14 pages, color, 3.5 x 5 in.
 
 
