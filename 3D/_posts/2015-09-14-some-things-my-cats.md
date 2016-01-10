@@ -10,7 +10,8 @@ slides:
 - some-things-my-cats.png
 - some-things-my-cats-2.png
 - some-things-my-cats-3.png
-description: Self-published zine cataloging all of the stuff my cats have put in their mouths.
+- some-things-my-cats-4.png
+description: Self-published zine cataloging some of the things my cats have put in their mouths.
 ---
 My cats think everything is food. I started keeping a list of items destroyed and dollar values and it's gotten pretty long, so I decided to illustrate it! 
 
