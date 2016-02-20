@@ -4,15 +4,17 @@ title: About and Contact
 ---
 #About
 
-Hello! I am a freelance illustrator based in Seattle, Washington. Drawing from a love of animation and video game art and design, I produce both stylized and semi-realistic imagery by digitally modeling subjects and environments in 3D, painting or photocompositing textures, and processing the final image in Photoshop. 
+Hello! I'm Crista Alejandre and I'm an illustrator, designer, and 3D artist. My specific interests and strengths are currently **3D modeling, hand-painted textures, lettering and typography, and vector graphics.** 
 
-Check out the [#3D](/tags/#3d) or [#process](/tags/#process) tags on my blog if you're interested in more details about this workflow!  
+With these skillsets I've had the opportunity to work on a wide variety of personal and freelance projects. Some examples include **self-publishing comics and zines, designing business cards and other marketing collaterial, illustrating infographics, and creating 2D and 3D video game assets.** Clients I've worked with have ranged from individuals and small businesses to museums, universities, and professional associations. 
 
-I also draw comics and illustrations more traditionally - digitally or by hand in 2D. You can see many personal and client projects [here](/2D/). 
+Recently I've started to learn Unity and C# by working on a couple of personal game projects! Most of this is documented on my game dev Tumblr [Rigged Exhibits](http://rigged-exhibits.tumblr.com/). 
+
+Please don't hesitate to get in touch if you're interested in working together on a current or future project!  
 
 <img src="/images/rocketbear.png" class="small">
 
-#contact
+#Contact
 
 Email: <script type="text/javascript">
             //<![CDATA[
@@ -47,16 +49,3 @@ I'm also on:&nbsp;
 <i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;
 <i class="fa fa-github-alt"></i> [Github](//github.com/troutcat) &nbsp;
     
-#Credits and Resources
-
-For anyone who wants to get their feet wet with 3D sculpting, texturing, and animation, [Blender](//blender.org) is an incredible free and open source program that lets you give all of these areas a try. It has come a long way in terms of features and usability, and while it is by no means an industry standard it is a great way to learn and practice some of the core concepts that are shared between Blender and the bigger names like Maya and Max. The vast majority of the 3D images on this site were at least modeled in Blender, if not created there from start to finish. 
-
-This site runs on [Jekyll](//jekyllrb.com) through [Github Pages](//pages.github.com). There's a bit of a learning curve, but it's a great free platform for non-database client-side website building. If you're interested in more details, [here's the readme](//github.com/hicrista/hicrista.github.io) for the site repository.
-
-
-
-
-
-
-
-

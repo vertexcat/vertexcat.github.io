@@ -2,7 +2,7 @@
 layout: 6-blog-post
 title: Vertex painting tip in Blender
 published: true
-tags: [blender, 3d, tips, unity, game-dev, vertex painting]
+tags: [blender, 3d, tips, unity, game-dev, vertex-painting]
 permalink: vertex-painting-tip
 ---
 ![Buffet Cats WIP](http://40.media.tumblr.com/21f305def77e742a918e509bc3fe2464/tumblr_o016ap1bZz1v2jl8fo1_1280.png)
