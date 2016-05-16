@@ -2,7 +2,6 @@
 layout: 6-blog-post
 title: Yellow Truck
 published: true
-tags: [blender, cycles, 3d, personal, project, completed]
 permalink: yellow-truck
 ---
 I have been experimenting a lot with more realistic shaders and modeling and am really happy with this personal project I started and finished over Labor Day weekend. First, the final image:

@@ -2,7 +2,6 @@
 layout: 6-blog-post
 title: Sculpt January progress
 published: true
-tags: [blender, 3d, events, sculpting]
 permalink: sculpt-january-progress
 ---
 ![Sculpt January favorites so far](/images/blog/sculpt-january-favorites.jpg)

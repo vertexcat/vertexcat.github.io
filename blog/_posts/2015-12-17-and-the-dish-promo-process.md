@@ -2,7 +2,6 @@
 layout: 6-blog-post
 title: Dish promo image process 
 published: true
-tags: [3d, blender, illustration, process, project, lettering, completed]
 permalink: dish-promo-process
 ---
 This is the process post for the Dish promo image for issue 2 seen [here](/dish-issue-2-call) and [here](dish-issue-2-promo). 

@@ -831,7 +831,7 @@ $(function() {
   $container.imagesLoaded( function() {
     $item.fadeIn(800);
     $container.masonry({
-      columnWidth: 320,
+      columnWidth: 420,
       itemSelector: '.item',
     });
     

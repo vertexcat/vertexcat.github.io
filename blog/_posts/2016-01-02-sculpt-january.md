@@ -2,7 +2,6 @@
 layout: 6-blog-post
 title: Happy new (sculpting) year!
 published: true
-tags: [blender, 3d, events, sculpting]
 permalink: sculpt-january-begins
 ---
 ![Sculpt January entry 1](/images/blog/mushroom-collage.png)

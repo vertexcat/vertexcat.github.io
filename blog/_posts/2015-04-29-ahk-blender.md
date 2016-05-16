@@ -2,7 +2,7 @@
 layout: 6-blog-post
 title: Autohotkey - Blender Tip
 published: true		
-tags: [tips, blender, modeling, 'low-poly']
+
 permalink: ahk-blender
 ---
 > **Update:** Blender does have a left-hand delete key built in, which is the "x" key y default. But this script has come in handy for other applications - Word documents where you're doing a lot of copying, pasting, and deleting maybe. 

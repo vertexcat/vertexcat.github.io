@@ -2,19 +2,11 @@
 layout: 4-static
 title: About and Contact
 ---
-#About
+#About & Contact
 
-Hello! I'm Crista Alejandre and I'm an illustrator, designer, and 3D artist. My specific interests and strengths are currently **3D modeling, hand-painted textures, lettering and typography, and vector graphics.** 
+Hello! I'm an illustrator and 3D artist based in Seattle. My current focus is on video game asset creation, but my work also involves exploring how 3D can tie into other visual areas like graphic design, illustration, or comics.
 
-With these skillsets I've had the opportunity to work on a wide variety of personal and freelance projects. Some examples include **self-publishing comics and zines, designing business cards and other marketing collaterial, illustrating infographics, and creating 2D and 3D video game assets.** Clients I've worked with have ranged from individuals and small businesses to museums, universities, and professional associations. 
-
-Recently I've started to learn Unity and C# by working on a couple of personal game projects! Most of this is documented on my game dev Tumblr [Rigged Exhibits](http://rigged-exhibits.tumblr.com/). 
-
-Please don't hesitate to get in touch if you're interested in working together on a current or future project!  
-
-<img src="/images/rocketbear.png" class="small">
-
-#Contact
+Clients I've worked with have ranged from individuals and small businesses to museums, universities, and professional associations. I am available for freelance work so please don't hesitate to get in touch if you're interested in working together on a current or future project!  
 
 Email: <script type="text/javascript">
             //<![CDATA[
@@ -48,4 +40,8 @@ I'm also on:&nbsp;
 <i class="fa fa-star"></i> [Sketchfab](//sketchfab.com/hicrista) &nbsp;
 <i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;
 <i class="fa fa-github-alt"></i> [Github](//github.com/troutcat) &nbsp;
-    
+
+
+
+
+

@@ -1,30 +1,40 @@
 #grid {
 	width: 100%;
-	margin: 0;
-	padding: 1em;	
+	padding: 0;
+  margin-right: 2em;
 }
 .grid {
-	margin: 10em 0;
+	margin: 10em 0 0 0;
 	padding: 0;
 	width: 100%;
 	list-style-type: none;
-	
 }
 
 .item, .item img {
-	width: 300px;
-	@media (max-width: 640px) {
+	width: 400px;
+	@media (max-width: 900px) {
 		width: 96%
 	}
 }
 
 .item {
-	margin-bottom: 20px;
+	margin-bottom: 2.5em;
+}
+
+.tag-wrap {
+  opacity: 0;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+.item a:hover + .tag-wrap, .tag-wrap:hover {
+  opacity: .7;
 }
 
 .scrolltop {
   width: 95%;
-  margin: 0 auto;
+  margin: 0 4em 0 0;
   padding-bottom: 1em;
   text-align: right;
   font-size: .6em;

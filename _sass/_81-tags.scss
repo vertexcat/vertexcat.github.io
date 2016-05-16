@@ -1,31 +1,22 @@
-  a.tag-link {
-    text-transform: uppercase;
-    color: #000;
-  }
 
-section.tag-list {
-  margin-left: 1em;
-  padding-bottom: 10em;
-
-	a.tag-link:before {
-	 	display: inline-block; 
-    content: " "; 
-    margin-top: -12em; 
-    height: 12em; 
-    visibility: hidden; 
+a.tag-link {
+  color: $primary-color;
+  font-family: 'CSDSMedium';
+  padding-right: 1em;
+  &:last-of-type {
+    padding-right: 0;
   }
 }
 
-ul.tags {
- 	list-style-type:none;
-  text-transform: uppercase;
-	margin: 0 0 3em 1em;
-	padding: 0;
-	li {
-		padding: .4em;
-	}
+.fa-tags {
+  color: #888;
+  margin: .5em .25em 0 0;
 }
 
+.tag-divider {
+  padding: 0 .5em;
+  visibility: hidden;
+}
 .tag-divider:last-of-type {
 	display: none;
 }

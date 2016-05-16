@@ -1,10 +1,10 @@
 {
   "name": "crista-alejandre-portfolio",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Crista Alejandre <hello@crista-alejandre.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hicrista/hicrista.github.io.git"
+    "url": "https://github.com/troutcat/troutcat.github.io.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",

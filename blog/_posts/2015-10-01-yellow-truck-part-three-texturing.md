@@ -2,7 +2,6 @@
 layout: 6-blog-post
 title: Yellow Truck Texturing
 published: true
-tags: [blender, 3d, personal, project, process, texturing]
 permalink: yellow-truck-part-three-texturing
 ---
 This is the last post of 3 ([part 1](/yellow-truck), [part 2](/yellow-truck-part-two-modeling)) about the [Yellow Truck project](/yellow-truck-project). 

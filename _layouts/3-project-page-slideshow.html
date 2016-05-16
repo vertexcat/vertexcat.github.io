@@ -7,13 +7,16 @@
 
 <div class="slides">
 	{% for item in page.slides %}
-		<img class="main" src="/images/{{ page.category }}/{{ item }}">
+		<img class="main" src="/images/{{ page.category | first}}/{{ item }}">
   {% endfor %}
 </div>
 
 {{ content }}
 
-</section>
+See other:  {% for tag in page.tags %}
+            <i class="fa fa-tags"></i> 
+            <a class="tag-link" href="/tagged/{{ tag }}">{{ tag }}</a>
+          {% endfor %}
 
 {% include 41-analytics_main.html %}
 {% include 9-footer.html %}

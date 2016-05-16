@@ -2,7 +2,7 @@
 layout: 6-blog-post
 title: Virginia City postcard illustration 
 published: true
-tags: [3d, blender, illustration, process, tips, lessons-learned, project, completed]
+
 permalink: virginia-city-postcard
 ---
 ![Virginia City Postcard](/images/three/virginia-city.jpg)

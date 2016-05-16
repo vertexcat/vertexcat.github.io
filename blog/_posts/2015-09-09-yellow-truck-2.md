@@ -2,7 +2,6 @@
 layout: 6-blog-post
 title: Yellow Truck Modeling
 published: true
-tags: [blender, modeling, 3d, personal, project, process]
 permalink: yellow-truck-part-two-modeling
 ---
 Here is a quick breakdown of the whole process:

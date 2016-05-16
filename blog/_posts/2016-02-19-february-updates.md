@@ -2,7 +2,6 @@
 layout: 6-blog-post
 title: February Updates
 published: true
-tags: [completed, announcement, game-dev, sculpting]
 permalink: february-updates
 ---
 First, [my 2016 Sculpt January album!](https://plus.google.com/photos/116283228796321454963/album/6246591929294146065) I picked my favorites and uploaded them to the main page on this site, but for completion's sake all 31 are in that album. While not all 31 are my best work the progression is a pretty interesting record of this very boot-camp like (to me) experience. Plus, as I think I've mentioned before, I'm a big fan of this learn by doing with a sprinkling of peer pressure sort of thing and feel that it's good for my brain, confidence, and portfolio! 

@@ -1,12 +1,7 @@
 h1 {
-  font-weight: 600;
-  font-size: 20px;
-  padding: 5px 5px 5px 8px;
-  text-transform: uppercase;
   width: 98%;
-  background: #000;
-  color: #fff;
-  line-height: 21px;
+  line-height: 52px;
+  font-size: $h1-font-size;
 }
   
 p {
@@ -19,7 +14,7 @@ section.text,
 section.project, 
 section.blog,
 section.post {
-  padding: 0 5em 0 1em;
+  padding: 0 5em 0 0;
   margin: 10em auto;
   width: 93%;
   max-width: 800px;

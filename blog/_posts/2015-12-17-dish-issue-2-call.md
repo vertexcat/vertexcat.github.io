@@ -2,7 +2,6 @@
 layout: 6-blog-post
 title: Dish Issue 2 - Share a recipe or story! 
 published: true
-tags: [3d, announcement, illustration, zines]
 permalink: dish-issue-2-call
 ---
 ![Dish zine issue 2 promo](/images/three/dish-promo.png)
