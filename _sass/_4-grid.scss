@@ -2,12 +2,21 @@
 	width: 100%;
 	padding: 0;
   margin-right: 2em;
+  @media (max-width: 360px) {
+    width: 95%;
+    position: absolute; 
+    left: 0;
+    margin-left: 1em
+  }
 }
 .grid {
 	margin: 10em 0 0 0;
 	padding: 0;
 	width: 100%;
 	list-style-type: none;
+	  @media (max-width: 360px) {
+    margin-top: 7em;
+  }
 }
 
 .item, .item img {
@@ -30,6 +39,12 @@
 
 .item a:hover + .tag-wrap, .tag-wrap:hover {
   opacity: .7;
+}
+
+.tag-wrap {
+	  @media (max-width: 360px) {
+    display: none;
+  }
 }
 
 .scrolltop {

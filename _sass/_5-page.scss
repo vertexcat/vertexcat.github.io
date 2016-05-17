@@ -1,8 +1,4 @@
-h1 {
-  width: 98%;
-  line-height: 52px;
-  font-size: $h1-font-size;
-}
+
   
 p {
   clear: both;
@@ -18,9 +14,23 @@ section.post {
   margin: 10em auto;
   width: 93%;
   max-width: 800px;
-  h1 {
-    text-align: left;
+    @media (max-width: 360px) {
+    margin: 6em 1em;
+    padding: 0;
+    width: 90%;
+    position: absolute;
+    left: 0;
   }
+  h1 {
+  width: 98%;
+  line-height: 52px;
+  font-size: $h1-font-size;
+    @media (max-width: 360px) {
+    font-size: 1em;
+    line-height: 32px
+    }
+  }
+
   img {
     width: 100%;
     margin: 0;
