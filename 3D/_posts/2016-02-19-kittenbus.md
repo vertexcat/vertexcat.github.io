@@ -1,5 +1,5 @@
 ---
-title: Stone troll
+title: Kittenbus sculpt
 category: [three, sculpt]
 image: kittenbus.png
 thumb: kittenbus.jpg
