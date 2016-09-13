@@ -7,7 +7,7 @@ published: true
 layout: 3-project-page
 permalink: menswear-dog
 description: Menswear Dog fanart!
-tags: [modeling, texture-painting, fanart]
+tags: [fanart, low-poly, texture-paint]
 ---
 [Menswear Dog](http://mensweardog.tumblr.com) fanart!
 
