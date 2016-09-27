@@ -2,9 +2,10 @@
 layout: 4-static
 title: About and Contact
 ---
-#About & Contact
+#About
 
-Hello! I'm an illustrator and 3D artist based in Seattle. My current focus is on video game asset creation, but my work also involves exploring how 3D can tie into other visual areas like graphic design, illustration, or comics.
+
+Hello! I'm an illustrator and 3D artist based in Seattle. My work combines 3D models I create with other visual areas like graphic design, illustration, or comics.
 
 Clients I've worked with have ranged from individuals and small businesses to museums, universities, and professional associations. I am available for freelance work so please don't hesitate to get in touch if you're interested in working together on a current or future project!  
 
@@ -33,13 +34,12 @@ I'm also on:&nbsp;
 <i class="fa fa-twitter"></i> [Twitter](//twitter.com/hicrista) &nbsp;
 <i class="fa fa-tumblr"></i> [Tumblr](//hicrista.tumblr.com/) &nbsp;
 <i class="fa fa-instagram"></i> [Instagram](http://instagram.com/hicrista) &nbsp; 
-<i class="fa fa-behance"></i> [Behance](//behance.net/cristaalejandre) &nbsp;
+<!--<i class="fa fa-behance"></i> [Behance](//behance.net/cristaalejandre) &nbsp;-->
 <i class="fa fa-pinterest-p"></i> [Pinterest](//pinterest.com/cristaalejandre) &nbsp;
-
-<i class="fa fa-star"></i> [Blendswap](//blendswap.com/user/hicrista) &nbsp;
+<!--<i class="fa fa-star"></i> [Blendswap](//blendswap.com/user/hicrista) &nbsp;-->
 <i class="fa fa-star"></i> [Sketchfab](//sketchfab.com/hicrista) &nbsp;
-<i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;
-<i class="fa fa-github-alt"></i> [Github](//github.com/troutcat) &nbsp;
+<!--<i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;-->
+<!--<i class="fa fa-github-alt"></i> [Github](//github.com/troutcat) &nbsp;-->
 
 
 
