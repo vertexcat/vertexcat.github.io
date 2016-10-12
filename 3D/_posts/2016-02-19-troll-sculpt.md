@@ -8,6 +8,7 @@ layout: 3-project-page
 permalink: fanart-sculpts-troll
 description: Fanart sculpt of a stone troll from Farmville.
 tags: [sculpting, fanart]
+credit: Concept&#58 Farmville
 ---
 Fanart sculpt of a stone troll from Farmville.
 

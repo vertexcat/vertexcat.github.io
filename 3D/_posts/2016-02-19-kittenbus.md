@@ -8,6 +8,7 @@ layout: 3-project-page
 permalink: fanart-kittenbus-sculpt
 description: Fanart sculpt of Studio Ghibli's Kittenbus.
 tags: [sculpting, fanart]
+concept: Mei's Kittenbus (fanart)
 ---
 Fanart sculpt of Studio Ghibli's Kittenbus.
 

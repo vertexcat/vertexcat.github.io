@@ -9,7 +9,7 @@ permalink: menswear-dog
 description: Menswear Dog fanart!
 tags: [fanart, low-poly, texture-paint]
 regenerate: true
-credit: Concept&#59 Menswear Dog
+credit: Concept&#58 Menswear Dog
 ---
 [Menswear Dog](http://mensweardog.tumblr.com) fanart!
 

@@ -8,6 +8,7 @@ layout: 3-project-page
 permalink: fanart-sculpts-sebastian
 description: Blender sculpts of various existing characters and props.
 tags: [sculpting, fanart]
+credit: Concept&#58 Disney's Little Mermaid (fanart)
 ---
 Fanart - Sebastian from Little Mermaid.
 
