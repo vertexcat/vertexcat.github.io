@@ -1,6 +1,6 @@
 ---
 title: Virginia City wedding invitation
-category: [three, illo]
+category: [three]
 image: virginia-city.jpg
 thumb: virginia-city-640.jpg
 published: true

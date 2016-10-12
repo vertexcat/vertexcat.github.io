@@ -9,3 +9,4 @@ permalink: himalayan-cat
 description: Cat OC based on Himalayan cat
 tags: [fanart, low-poly, texture-paint]
 ---
+For a personal game project.

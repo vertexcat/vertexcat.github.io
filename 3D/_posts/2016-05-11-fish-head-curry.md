@@ -9,4 +9,4 @@ permalink: fish-head-curry
 description: Fish head curry illustration for Dish food zine
 tags: [low-poly, texture-paint]
 ---
-For my food zine Dish.
+For the food zine [Dish](dish-issue-2).

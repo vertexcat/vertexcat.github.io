@@ -9,8 +9,13 @@
     <li id="{{ post.permalink }}" class="item">
       <a href="{{ post.url }}">
         <img src="/images/three/{{ post.thumb }}">
-       </a>
+      </a>
+       <a class="credit" href="{{ post.url }}">{{ post.credit }}</a>
     </li>
+
+
+      
+  
 
   {% endif %}
     {% endfor %} 
