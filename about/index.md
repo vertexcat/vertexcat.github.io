@@ -7,7 +7,15 @@ title: About and Contact
 
 Hello! I'm an illustrator and 3D artist based in Seattle. My work combines 3D models I create with other visual areas like graphic design, illustration, or comics.
 
-Clients I've worked with have ranged from individuals and small businesses to museums, universities, and professional associations. I am available for freelance work so please don't hesitate to get in touch if you're interested in working together on a current or future project!  
+Clients I've worked with have ranged from individuals and small businesses to museums, universities, and professional associations. I am available for freelance work so please don't hesitate to get in touch if you're interested in working together on a current or future project! 
+
+**My work has been/will be available at**:
+
+Short Run Comix and Arts Festival (Seattle) 2015, 2016<br />
+San Francisco Zine Fest 2016<br />
+*International Art of Zines* group show, Anno Domini Gallery (San Jose) 2016<br />
+
+#Contact
 
 Email: <script type="text/javascript">
             //<![CDATA[

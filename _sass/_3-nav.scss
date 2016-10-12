@@ -23,12 +23,16 @@ h1.name {
     font-size: 1.5em
   }
 } 
+
+span.subtitle {
+  color: #aaa;
+  font-size: .75em;
+}
  
 ul.main_nav {
   display: block;
-  font-size: 1em;
+  font-size: 1.1em;
   margin: -1em 0 0 0;
-
   padding: 0 .25em;
   font-family: 'CSDSMedium';
   font-weight: 700;
@@ -41,6 +45,7 @@ ul.main_nav {
   a {
     display: inline-block;
     margin: 1em 1em 0 0;
+    color: #555;
 
   }
 }
