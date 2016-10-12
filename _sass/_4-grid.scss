@@ -1,3 +1,22 @@
+#grid-front {
+  margin: 10em 0;
+  img {
+    height: 300px;
+    margin-right: 2em;
+  }
+  figure {
+    float: left;
+    margin-bottom: 4em;
+  }
+  figcaption {
+    font-size: 1.5em;
+    margin-top: .5em;
+  }
+  @media (max-width: 360px) {
+    width: 480px;
+  }
+
+}
 #grid {
 	width: 100%;
 	padding: 0;
@@ -12,14 +31,13 @@
 .grid {
 	margin: 10em 0 0 0;
 	padding: 0;
-	width: 100%;
 	list-style-type: none;
 	  @media (max-width: 360px) {
     margin-top: 7em;
   }
 }
 
-.item, .item img {
+item, .item img {
 	width: 400px;
 	@media (max-width: 900px) {
 		width: 96%
@@ -27,25 +45,9 @@
 }
 
 .item {
-	margin-bottom: 2.5em;
+	margin: 0 0 2em 0;
 }
 
-.tag-wrap {
-  opacity: 0;
-   transition: opacity .25s ease-in-out;
-   -moz-transition: opacity .25s ease-in-out;
-   -webkit-transition: opacity .25s ease-in-out;
-}
-
-.item a:hover + .tag-wrap, .tag-wrap:hover {
-  opacity: .7;
-}
-
-.tag-wrap {
-	  @media (max-width: 360px) {
-    display: none;
-  }
-}
 
 .scrolltop {
   width: 95%;

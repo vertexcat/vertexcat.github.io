@@ -11,7 +11,7 @@ slides:
 - undiscerning-cat-pages-1.png
 - undiscerning-cat-pages-2.png
 description: Self-published zine with tips on dealing with cats who try to eat everything. Debuted at San Francisco Zine Fest 2016.
-tags: [zines, original, low-poly, texture-paint]
+tags: [zines, original, low-poly]
 ---
 Self-published zine with tips on dealing with cats who try to eat everything. Debuted at San Francisco Zine Fest 2016.
 

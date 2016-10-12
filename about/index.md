@@ -5,7 +5,7 @@ title: About and Contact
 #About
 
 
-Hello! I'm an illustrator and 3D artist based in Seattle. My work combines 3D models I create with other visual areas like graphic design, illustration, or comics.
+Hello! I'm a freelance 3D artist and illustrator based in Seattle. My work combines 3D models I create with other visual areas like graphic design, illustration, or comics.
 
 Clients I've worked with have ranged from individuals and small businesses to museums, universities, and professional associations. I am available for freelance work so please don't hesitate to get in touch if you're interested in working together on a current or future project! 
 

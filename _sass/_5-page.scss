@@ -2,8 +2,9 @@
   
 p {
   clear: both;
-  line-height: 25px;
+  line-height: 1.5em;
   margin-bottom:2em;
+  font-size: 1.2em;
 }
 
 section.text, 
@@ -13,7 +14,7 @@ section.post {
   padding: 0 5em 0 0;
   margin: 10em auto;
   width: 93%;
-  max-width: 800px;
+  max-width: 720px;
     @media (max-width: 360px) {
     margin: 6em 1em;
     padding: 0;
@@ -44,7 +45,9 @@ section.post {
     width: 98%;
   }
 }
-
+.tumblrInjection {
+  max-width: 540px;
+}
 p img.small {
   width: 250px;  
   margin: 0;
