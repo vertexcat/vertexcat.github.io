@@ -2,7 +2,8 @@
 layout: 4-static
 title: About and Contact
 ---
-#About
+
+# About
 
 
 Hello! I'm a freelance 3D artist and illustrator based in Seattle. My work combines 3D models I create with other visual areas like graphic design, illustration, or comics. 
@@ -15,7 +16,7 @@ Clients I've worked with have ranged from individuals and small businesses to mu
 [San Francisco Zine Fest](http://www.sfzinefest.org/) 2016<br />
 *International Art of Zines* group show, [Anno Domini Gallery](http://www.galleryad.com/) (San Jose) 2016<br />
 
-#Contact
+# Contact
 
 Email: <script type="text/javascript">
             //<![CDATA[
@@ -48,6 +49,13 @@ I'm also on:&nbsp;
 <i class="fa fa-star"></i> [Sketchfab](//sketchfab.com/hicrista) &nbsp;
 <!--<i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;-->
 <!--<i class="fa fa-github-alt"></i> [Github](//github.com/troutcat) &nbsp;-->
+
+
+
+
+
+
+
 
 
 

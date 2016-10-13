@@ -11,23 +11,20 @@ section.text,
 section.project, 
 section.blog,
 section.post {
-  padding: 0 5em 0 0;
-  margin: 10em auto;
+  margin-top: 12em;
   width: 93%;
   max-width: 720px;
-    @media (max-width: 360px) {
-    margin: 6em 1em;
+    @media (max-width: 480px) {
+    margin: 8em 1em 6em 0;
     padding: 0;
     width: 90%;
-    position: absolute;
-    left: 0;
   }
   h1 {
   width: 98%;
   line-height: 52px;
   font-size: $h1-font-size;
-    @media (max-width: 360px) {
-    font-size: 1em;
+    @media (max-width: 480px) {
+    font-size: 1.5em;
     line-height: 32px
     }
   }

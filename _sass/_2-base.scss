@@ -20,6 +20,9 @@ a {
   width: 100%;
   margin: 0;
   padding: 2em;
+   @media (max-width: 400px) {
+    padding-left: 1em;
+  }
 }
 
 .colorize {
