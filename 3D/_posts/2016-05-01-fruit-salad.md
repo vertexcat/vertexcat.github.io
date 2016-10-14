@@ -9,4 +9,4 @@ permalink: fruit-stack
 description: Stack of fruit slices for a client game project.
 tags: [original, low-poly, vertex-color]
 ---
-Stack of fruit slices for a client game project.
+Stack of fruit slices for a client game project. These are vertex colored with a toon-ish diffuse shader to create faint shadows and additional shading.
