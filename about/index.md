@@ -8,11 +8,14 @@ title: About and Contact
 
 Hello! I'm a freelance 3D artist and illustrator based in Seattle. My work combines 3D models I create with other visual areas like graphic design, illustration, or comics. 
 
-Clients I've worked with have ranged from individuals and small businesses to museums, universities, and professional associations. I am available for freelance work so please don't hesitate to get in touch if you're interested in working together on a current or future project! 
+Clients I've worked with have ranged from individuals and small businesses to museums, universities, and professional associations. I am available for freelance work so please don't hesitate to get in touch if you're interested in working together on a current or future project!
 
-**My work has been/will be available at**:
+For a little bit more about me and my work, check out [this interview with BlenderNation](http://www.blendernation.com/2016/10/03/artist-interview-crista-alejandre/). 
+
+**Zines, prints, and other merch have been/will be available at**:
 
 [Short Run Comix and Arts Festival](http://shortrun.org/) (Seattle) 2015, 2016<br />
+*Coming soon! November 5 at Seattle Center*<br />
 [San Francisco Zine Fest](http://www.sfzinefest.org/) 2016<br />
 *International Art of Zines* group show, [Anno Domini Gallery](http://www.galleryad.com/) (San Jose) 2016<br />
 
