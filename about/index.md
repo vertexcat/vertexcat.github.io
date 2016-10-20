@@ -12,12 +12,12 @@ Clients I've worked with have ranged from individuals and small businesses to mu
 
 For a little bit more about me and my work, check out [this interview with BlenderNation](http://www.blendernation.com/2016/10/03/artist-interview-crista-alejandre/). 
 
-**Zines, prints, and other merch have been/will be available at**:
-
-[Short Run Comix and Arts Festival](http://shortrun.org/) (Seattle) 2015, 2016<br />
+**Zines, prints, and other merch have been/will be available at**:<br />
+- [Short Run Comix and Arts Festival](http://shortrun.org/) (Seattle, WA) 2015, 2016<br />
 *Coming soon! November 5 at Seattle Center*<br />
-[San Francisco Zine Fest](http://www.sfzinefest.org/) 2016<br />
-*International Art of Zines* group show, [Anno Domini Gallery](http://www.galleryad.com/) (San Jose) 2016<br />
+- [San Francisco Zine Fest](http://www.sfzinefest.org/) 2016<br />
+- *International Art of Zines* group show, [Anno Domini Gallery](http://www.galleryad.com/) (San Jose, CA) 2016<br />
+- [OGREshop at Arlyn Pillay Gallery](http://www.ogreshop.com), (Tustin, CA) 2016
 
 # Contact
 
