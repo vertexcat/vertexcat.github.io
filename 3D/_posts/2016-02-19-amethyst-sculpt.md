@@ -8,7 +8,7 @@ layout: 3-project-page
 permalink: fanart-sculpts-amethyst
 description: Fanart sculpt of Amethyst from Steven Universe.
 tags: [sculpting, fanart]
-credit: Concept&#58 Steven Universe (fanart)
+credit: Fanart&#58 Steven Universe
 ---
 Fanart sculpt of Amethyst from Steven Universe.
 

@@ -8,9 +8,9 @@ layout: 3-project-page
 permalink: menswear-dog
 description: Menswear Dog fanart!
 tags: [fanart, low-poly, texture-paint]
-credit: Concept&#58 Menswear Dog
+credit: Fanart&#58 Menswear Dog
 ---
-[Menswear Dog](http://mensweardog.tumblr.com) fanart!
+Low poly [Menswear Dog](http://mensweardog.tumblr.com)!
 
 Concept: "[Good Boy](http://mensweardog.tumblr.com/post/108019224740/good-boy)" photo from Menswear Dog. 
 

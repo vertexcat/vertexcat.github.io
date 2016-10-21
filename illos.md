@@ -1,6 +1,6 @@
 ---
 layout: 1-gallery
-title: Other Illustrations
+title: Other illustrations
 description: 
 section: illos
 ---
