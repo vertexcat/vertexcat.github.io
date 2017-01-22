@@ -43,13 +43,12 @@ Email: <script type="text/javascript">
 
 
 I'm also on:&nbsp; 
-<i class="fa fa-twitter"></i> [Twitter](//twitter.com/hicrista) &nbsp;
-<i class="fa fa-tumblr"></i> [Tumblr](//hicrista.tumblr.com/) &nbsp;
-<i class="fa fa-instagram"></i> [Instagram](http://instagram.com/hicrista) &nbsp; 
+<i class="fa fa-twitter"></i> [Twitter](//twitter.com/vertexcat) &nbsp;
+<i class="fa fa-tumblr"></i> [Tumblr](//vertexcat.tumblr.com/) &nbsp;
 <!--<i class="fa fa-behance"></i> [Behance](//behance.net/cristaalejandre) &nbsp;-->
 <i class="fa fa-pinterest-p"></i> [Pinterest](//pinterest.com/cristaalejandre) &nbsp;
 <!--<i class="fa fa-star"></i> [Blendswap](//blendswap.com/user/hicrista) &nbsp;-->
-<i class="fa fa-star"></i> [Sketchfab](//sketchfab.com/hicrista) &nbsp;
+<i class="fa fa-star"></i> [Sketchfab](//sketchfab.com/vertexcat) &nbsp;
 <!--<i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;-->
 <!--<i class="fa fa-github-alt"></i> [Github](//github.com/troutcat) &nbsp;-->
 
