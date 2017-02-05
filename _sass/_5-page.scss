@@ -6,14 +6,14 @@ p {
   clear: both;
   line-height: 1.5em;
   margin-bottom:2em;
-  font-size: 1.2em;
+  font-size: 16px;
 }
 
 section.text, 
 section.project, 
 section.blog,
 section.post {
-  margin-top: 12em;
+  margin-top: 80px;
   width: 93%;
   max-width: 720px;
     @media (max-width: 480px) {
@@ -23,11 +23,13 @@ section.post {
   }
   h1 {
   width: 98%;
-  line-height: 52px;
-  font-size: $h1-font-size;
+  line-height: 36px;
+  font-size: 20px; 
+  opacity: 50%;
+
     @media (max-width: 480px) {
     font-size: 1.5em;
-    line-height: 32px
+    line-height: 32px;
     }
   }
 

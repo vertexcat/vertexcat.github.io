@@ -5,7 +5,6 @@ title: About and Contact
 
 # About
 
-
 Hello! I'm a freelance 3D artist and illustrator based in Seattle. My work combines 3D models I create with other visual areas like graphic design, illustration, or comics. 
 
 Clients I've worked with have ranged from individuals and small businesses to museums, universities, and professional associations. I am available for freelance work so please don't hesitate to get in touch if you're interested in working together on a current or future project!
@@ -17,6 +16,7 @@ For a little bit more about me and my work, check out [this interview with Blend
 - [San Francisco Zine Fest](http://www.sfzinefest.org/) 2016<br />
 - *International Art of Zines* group show, [Anno Domini Gallery](http://www.galleryad.com/) (San Jose, CA) 2016<br />
 - [OGREshop at Arlyn Pillay Gallery](http://www.ogreshop.com), (Tustin, CA) 2016
+
 
 # Contact
 
@@ -44,15 +44,14 @@ Email: <script type="text/javascript">
 I'm also on:&nbsp; 
 <i class="fa fa-twitter"></i> [Twitter](//twitter.com/vertexcat) &nbsp;
 <i class="fa fa-tumblr"></i> [Tumblr](//vertexcat.tumblr.com/) &nbsp;
-<!--<i class="fa fa-behance"></i> [Behance](//behance.net/cristaalejandre) &nbsp;-->
-<i class="fa fa-pinterest-p"></i> [Pinterest](//pinterest.com/cristaalejandre) &nbsp;
+<i class="fa fa-behance"></i> [Behance](//behance.net/cristaalejandre) &nbsp;
+<
 <!--<i class="fa fa-star"></i> [Blendswap](//blendswap.com/user/hicrista) &nbsp;-->
 <i class="fa fa-star"></i> [Sketchfab](//sketchfab.com/vertexcat) &nbsp;
 <!--<i class="fa fa-vimeo-square"></i> [Vimeo](//vimeo.com/hicrista) &nbsp;-->
-<!--<i class="fa fa-github-alt"></i> [Github](//github.com/troutcat) &nbsp;-->
-
-
-
+<!--<i class="fa fa-github-alt"></i> [Github](//github.com/troutcat) &nbsp;
+i class="fa fa-pinterest-p"></i> [Pinterest](//pinterest.com/cristaalejandre) &nbsp;-->
+<i class="fa fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/cristaalejandre)
 
 
 
