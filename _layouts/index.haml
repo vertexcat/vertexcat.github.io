@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-%section#grid-front.scene_element.scene_element--fadein
+%section#grid-front.grid
   {% for collection in site.data.collections %}
-  %figure
+  %figure.item
     %a{:href => "{{collection.permalink}}"}
       %img{:src => "/images/{{collection.thumbnail}}"}
       %figcaption

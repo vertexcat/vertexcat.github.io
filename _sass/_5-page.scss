@@ -9,7 +9,8 @@ section.text,
 section.project, 
 section.blog,
 section.post {
-  margin: 8em 0 0 0;
+  margin: 8em auto 0 auto;
+  max-width: 50em;
   padding: 0;
   h1 {
   line-height: 2em;
