@@ -1,36 +1,20 @@
-img.small {
-  margin: 1em
-}
-  
 p {
   clear: both;
   line-height: 1.5em;
   margin-bottom:2em;
-  font-size: 16px;
+  font-size: 1em;
 }
 
 section.text, 
 section.project, 
 section.blog,
 section.post {
-  margin-top: 8em;
-  width: 93%;
-  max-width: 720px;
-    @media (max-width: 480px) {
-    margin: 8em 1em 6em 0;
-    padding: 0;
-    width: 90%;
-  }
+  margin: 8em 0 0 0;
+  padding: 0;
   h1 {
-  width: 98%;
-  line-height: 36px;
-  font-size: 20px; 
+  line-height: 2em;
+  font-size: 1.25em; 
   opacity: 50%;
-
-    @media (max-width: 480px) {
-    font-size: 1.5em;
-    line-height: 32px;
-    }
   }
 
   img {
@@ -38,19 +22,6 @@ section.post {
     margin: 0;
     padding: 0;
   }
-  img.emoji {
-    width: auto;
-  }
-
-  .slides {
-    width: 98%;
-  }
-}
-p img.small {
-  width: 250px;  
-  margin: 0;
-  padding: 0;
-  float: right;
 }
 
 .error {

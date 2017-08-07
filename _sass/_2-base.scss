@@ -1,5 +1,6 @@
 html, body {
   font-family: $font-stack;
+  width: 100%;
   color: $base-font-color;
   letter-spacing: 1px;
   overflow-x: hidden; 
@@ -17,12 +18,8 @@ a {
 }
 
 .container {
-  width: 100%;
   margin: 0;
-  padding: 2em;
-   @media (max-width: 400px) {
-    padding-left: 1em;
-  }
+  padding: 1.5em;
 }
 
 .colorize {

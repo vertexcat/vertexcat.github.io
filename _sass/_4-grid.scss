@@ -1,60 +1,42 @@
 #grid-front {
-  margin: 7em  0 0 0;
-  @media (max-width: 480px) {
-    margin-top: 6em;
-  }
+  width: 100%;
+  margin: 6em  0 0 0;
   img {
-    max-height: 360px;
-    margin-right: 2em;
-    max-width: 100%;
+    width: 100%;
   }
   figure {
     float: left;
-    margin: 0 2em 4em 0;
-    max-width: 100%;
+    margin: 0 0 4em 0;
   }
   figcaption {
-    font-size: 18px;
-    margin-top: .5em;
-     @media (max-width: 360px) {
     font-size: 1.25em;
-    }
+    margin-top: .5em;
   }
-
 }
 #grid {
-  max-width: 100%;
   padding: 0;
-  margin: 0 1em 0 0;
+  margin: 0;
 }
 .grid {
-  margin: 10em 0 0 0;
+  margin: 8em 0 0 0;
   padding: 0;
   list-style-type: none;
-  @media (max-width: 360px) {
-    margin-top: 7em;
-  }
+
 }
 a.credit {
   color: #999;
-  padding-right: 1em;
+  padding: .8em 0 0 0;
   font-size: 1em;
   float: right;
   display: block;
-  @media (max-width: 480px) {
-    font-size: 1em;
-  }
 }
-.item, .item img {
-  width: 400px;
-  @media (max-width: 900px) {
-    width: 93%
+.item {
+  width: 100%;
+  margin: 0 0 2em 0;
+  img {
+    width: 100%;
   }
-  display: block;
-  margin-bottom: 1.5em;
 }
 
-.item {
-  margin: 0 0 2em 0;
-}
+
 
