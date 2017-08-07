@@ -1,6 +1,7 @@
 ---
 layout: static
 title: About and Contact
+permalink: /about/
 ---
 
 # About
