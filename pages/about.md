@@ -6,12 +6,27 @@ permalink: /about/
 
 # About
 
-Hello! I'm a freelance 3D artist and illustrator based in Seattle. 
+Hello! I'm a 3D artist and illustrator based in Seattle currently available for freelance work. [[Resume (PDF)](/resume.pdf)]
+
+#### Skills
+* Low poly modeling
+* Texture painting
+* Sculpting 
+* Some rigging & animation
+
+#### Software
+* Maya
+* Blender
+* ZBrush
+* 3D-Coat
+* Photoshop
+* Illustrator
+* Unity game engine
 
 #### Conventions and Exhibitions:
-- [Short Run Comix and Arts Festival](http://shortrun.org/) (Seattle, WA) 2015, 2016<br />
-- [San Francisco Zine Fest](http://www.sfzinefest.org/) 2016<br />
-- *International Art of Zines* group show, [Anno Domini Gallery](http://www.galleryad.com/) (San Jose, CA) 2016<br />
+- [Short Run Comix and Arts Festival](http://shortrun.org/) (Seattle, WA) <br />
+- [San Francisco Zine Fest](http://www.sfzinefest.org/) <br />
+- *International Art of Zines* group show, [Anno Domini Gallery](http://www.galleryad.com/) (San Jose, CA) <br />
 - [OGREshop at Arlyn Pillay Gallery](http://www.ogreshop.com), (Tustin, CA) 2016
 
 
