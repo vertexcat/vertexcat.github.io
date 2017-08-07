@@ -2,8 +2,9 @@
 layout: default
 ---
 %section.project.scene_element.scene_element--fadein
-  %h1
-    {{ page.title }}
   %img.main{:src => "/images/{{ page.category | first }}/{{ page.image }}"}
+  %h4
+    {{ page.credit }}
+
   {{ content }}
 
