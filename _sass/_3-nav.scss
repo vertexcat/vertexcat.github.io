@@ -52,7 +52,7 @@ div#contact {
   opacity: .7;
   font-family: 'CSDSMedium';
   display: none;
-  @media (min-width: 800px) {
+  @media (min-width: 600px) {
     display: block;
   }
   i {
