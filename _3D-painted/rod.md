@@ -9,3 +9,4 @@ credit: Concept by Dicesuki
 layout: project-page
 permalink: rod
 ---
+Dicesuki: [Tumblr](http://dicesuki.tumblr.com/) / [Website](http://dicesuki.com/)

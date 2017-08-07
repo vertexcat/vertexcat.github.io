@@ -8,6 +8,6 @@ layout: project-page
 permalink: miyazaki-sculpt
 collection-name: 3D-sculpt
 order: 5
-
+credit: Sculpt of Hayao Miyazaki from photo reference
 ---
 

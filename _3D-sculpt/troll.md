@@ -6,7 +6,7 @@ thumb: troll.jpg
 published: true
 layout: project-page
 permalink: farmville-troll
-credit: Fanart&#58 Farmville
+credit: Troll from Farmville
 order: 2
 ---
 
