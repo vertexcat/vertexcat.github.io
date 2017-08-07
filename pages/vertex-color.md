@@ -4,4 +4,5 @@ title: Flat shaded/vertex color
 description: Various flat shaded and/or vertex colored models.
 section: vertex-color
 permalink: /vertex-color/
+collection-name: 3D-flat
 ---

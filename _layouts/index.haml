@@ -1,35 +1,11 @@
 ---
 layout: default
 ---
-
 %section#grid-front.scene_element.scene_element--fadein
+  {% for collection in site.data.collections %}
   %figure
-    %a{:href => "/texture-paint"}
-      %img{:src => "/images/three/cat-idle.gif"}
+    %a{:href => "{{collection.permalink}}"}
+      %img{:src => "/images/{{collection.thumbnail}}"}
       %figcaption
-        Model + texture paint
-
-  %figure
-    %a{:href => "/vertex-color"}
-      %img{:src => "/images/three/smc.gif"}
-      %figcaption
-        Model + flat shade/vertex color
-
-  %figure
-    %a{:href => "/sculpt"}
-      %img{:src => "/images/three/sculpt.jpg"}
-      %figcaption
-        Sculpt
-
-  %figure
-    %a{:href => "/zines"}
-      %img{:src => "/images/three/zines.jpg"}
-      %figcaption
-        Zines
-
-  %figure
-    %a{:href => "/illos"}
-      %img{:src => "/images/three/illos.jpg"}
-      %figcaption
-        Other illustrations
-
+        {{ collection.caption }}
+  {% endfor %}

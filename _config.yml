@@ -4,6 +4,16 @@ permalink: 	 pretty
 sass:
   style: compressed
 
+collections: 
+  3D-flat:
+    output: true
+  3D-painted:
+    output: true
+  3D-sculpt:
+    output: true
+  2D-work:
+    output: true
+  
 defaults:
 -
   scope:
