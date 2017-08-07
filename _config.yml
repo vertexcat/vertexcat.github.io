@@ -33,4 +33,7 @@ defaults:
     permalink: "/:title"
 
 gems: 
-- jekyll-haml
+- jekyll-sitemap # must include here even with Gemfile 
+
+jekyll-minifier: 
+  remove_intertag_spaces: true
