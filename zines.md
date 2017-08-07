@@ -1,5 +1,5 @@
 ---
-layout: 1-gallery
+layout: gallery
 title: Zines
 description: 
 section: zines

@@ -4,7 +4,6 @@ permalink: 	 pretty
 sass:
   style: compressed
 
-
 defaults:
 -
   scope:
@@ -12,7 +11,7 @@ defaults:
     type: "posts"
   values:
     layout: "project-page"
-    author: "Crista Alejandre"
+    author: "Vertex Cat"
     permalink: "/:title"
 -
   scope:
@@ -20,13 +19,8 @@ defaults:
     type: "posts"
   values:
     layout: "project-page"
-    author: "Crista Alejandre"
+    author: "Vertex Cat"
     permalink: "/:title"
--
-  scope:
-    path: "blog" # an empty string here means all files in the project
-    type: "posts"
-  values:
-    layout: "blog-post"
-    author: "Crista Alejandre"
-    permalink: "/blog/:title"
+
+gems: 
+- jekyll-haml

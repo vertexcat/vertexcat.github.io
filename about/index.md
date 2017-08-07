@@ -1,5 +1,5 @@
 ---
-layout: 4-static
+layout: static
 title: About and Contact
 ---
 

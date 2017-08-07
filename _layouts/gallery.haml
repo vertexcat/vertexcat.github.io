@@ -1,0 +1,16 @@
+---
+layout: default
+---
+%section#grid.scene_element.scene_element--fadein
+
+  %ul.grid
+    {% for post in site.categories.three %}
+    {% if post.tags contains page.section %}
+    -#%li#{{ post.permalink }}.item
+    %li.item
+      %a{:href => "{{ post.url }}"}
+        %img{:src => "/images/three/{{ post.thumb }}"}
+      %a.credit{:href => "{{ post.url }}"}
+        {{ post.credit }}
+    {% endif %}
+    {% endfor %} 

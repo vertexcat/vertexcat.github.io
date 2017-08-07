@@ -1,5 +1,5 @@
 ---
-layout: 1-gallery-index
+layout: index
 title: Portfolio
 description: 3D artist based in Seattle.
 ---

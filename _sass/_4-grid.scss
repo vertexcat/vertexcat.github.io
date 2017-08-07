@@ -23,15 +23,15 @@
 
 }
 #grid {
-	max-width: 100%;
-	padding: 0;
+  max-width: 100%;
+  padding: 0;
   margin: 0 1em 0 0;
 }
 .grid {
-	margin: 10em 0 0 0;
-	padding: 0;
-	list-style-type: none;
-	  @media (max-width: 360px) {
+  margin: 10em 0 0 0;
+  padding: 0;
+  list-style-type: none;
+  @media (max-width: 360px) {
     margin-top: 7em;
   }
 }
@@ -41,19 +41,18 @@
     font-size: 1em;
   }
 }
-item, .item img {
-	width: 400px;
-	@media (max-width: 900px) {
-		width: 93%
-	}
+.item, .item img {
+  width: 400px;
+  @media (max-width: 900px) {
+    width: 93%
+  }
   display: block;
   margin-bottom: 1.5em;
 }
 
 .item {
-	margin: 0 0 2em 0;
+  margin: 0 0 2em 0;
 }
-
 
 .scrolltop {
   width: 95%;
