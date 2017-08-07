@@ -6,12 +6,9 @@ permalink: /about/
 
 # About
 
-Hello! I'm a freelance 3D artist and illustrator based in Seattle. My work combines 3D models I create with other visual areas like graphic design, illustration, or comics. 
+Hello! I'm a freelance 3D artist and illustrator based in Seattle. 
 
-Clients I've worked with have ranged from individuals and small businesses to museums, universities, and professional associations. I am available for freelance work so please don't hesitate to get in touch if you're interested in working together on a current or future project!
-
-
-**Conventions and Exhibitions**:<br />
+#### Conventions and Exhibitions:
 - [Short Run Comix and Arts Festival](http://shortrun.org/) (Seattle, WA) 2015, 2016<br />
 - [San Francisco Zine Fest](http://www.sfzinefest.org/) 2016<br />
 - *International Art of Zines* group show, [Anno Domini Gallery](http://www.galleryad.com/) (San Jose, CA) 2016<br />
