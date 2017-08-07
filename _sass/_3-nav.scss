@@ -5,7 +5,7 @@ nav {
   padding: 0 24px;
   z-index: 1000;
   width: 99%;
-  height: 110px;
+  height: 9em;
   background: #fff;
   @media (max-width: 360px) {
     height: 8em;
@@ -14,19 +14,15 @@ nav {
 }
 h1.name {
   font-family: 'CSDSLight';
-  font-size: 20px;
-  letter-spacing: 2px;
-  word-spacing: 8px;
+  font-size: 1.75em;
+  letter-spacing: .1em;
+  word-spacing: .5em;
   background: transparent;
   color: #333;
-  @media (max-width: 360px) {
-    font-size: 1.5em
-  }
-} 
-
+}
 span.subtitle {
   color: #aaa;
-  font-size: 18px;
+  font-size: .8em;
   @media (max-width: 760px) {
     display: block;
     margin-top: .25em;
@@ -35,8 +31,8 @@ span.subtitle {
  
 ul.main_nav {
   display: block;
-  font-size: 12px;
-  margin: -10px 0 0   0;
+  font-size: .9em;
+  margin: -1em 0 0 0;
   padding: 0;
   font-family: 'CSDSMedium';
   font-weight: 700;
@@ -54,12 +50,13 @@ ul.main_nav {
 }
 
 div#contact { 
-  font-size: 12px;
-  margin: 0 0 0 0;
+  font-size: .9em;
+  margin: 0;
   padding: 0;
   display: inline-block;
   position: absolute; 
   right: 60px;
+  top: 2em;
   opacity: .7;
   font-family: 'CSDSMedium';
   @media (max-width: 800px) {

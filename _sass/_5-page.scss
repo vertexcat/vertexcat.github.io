@@ -13,7 +13,7 @@ section.text,
 section.project, 
 section.blog,
 section.post {
-  margin-top: 80px;
+  margin-top: 8em;
   width: 93%;
   max-width: 720px;
     @media (max-width: 480px) {
@@ -45,9 +45,6 @@ section.post {
   .slides {
     width: 98%;
   }
-}
-.tumblrInjection {
-  max-width: 540px;
 }
 p img.small {
   width: 250px;  

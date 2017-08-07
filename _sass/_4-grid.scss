@@ -1,10 +1,10 @@
 #grid-front {
-  margin: 80px  0 0 0;
+  margin: 7em  0 0 0;
   @media (max-width: 480px) {
     margin-top: 6em;
   }
   img {
-    max-height: 270px;
+    max-height: 360px;
     margin-right: 2em;
     max-width: 100%;
   }
@@ -35,8 +35,12 @@
     margin-top: 7em;
   }
 }
-
-.grid a.credit {
+a.credit {
+  color: #999;
+  padding-right: 1em;
+  font-size: 1em;
+  float: right;
+  display: block;
   @media (max-width: 480px) {
     font-size: 1em;
   }
