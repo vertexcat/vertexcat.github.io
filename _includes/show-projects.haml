@@ -1,7 +1,0 @@
-{% for project in sorted %}
-%li.item
-  %a{:href => "{{ project.url }}"}
-    %img{:src => "/images/{{ project.category }}/{{ project.thumb }}"}
-  %a.credit{:href => "{{ project.url }}"}
-    {{ project.credit }}
-{% endfor %}
